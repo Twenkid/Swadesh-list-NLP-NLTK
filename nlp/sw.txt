@@ -1,0 +1,5109 @@
+я
+ты
+ён
+мы
+вы
+яны
+гэта
+гэны
+тут
+там
+хто
+што
+дзе
+калі
+як
+не
+усе
+шмат
+некалькі
+няшмат
+іншы
+адзін
+два
+тры
+чатыры
+пяць
+вялікі
+доўгі
+шырокі
+тоўсты
+цяжкі
+маленькі
+кароткі
+вузкі
+тонкі
+жанчына
+мужчына
+чалавек
+дзіця
+жонка
+муж
+маці
+бацька
+зьвер
+рыба
+птушка
+пёс
+вош
+зьмяя
+чарвяк
+дрэва
+лес
+палка
+садавіна
+насеньне
+ліст
+корань
+кара
+кветка
+трава
+шнур
+скура
+мяса
+кроў
+костка
+тлушч
+яйка
+рог
+хвост
+пяро
+валасы
+галава
+вуха
+вока
+нос
+вусны
+зуб
+язык
+пазногаць
+ступня
+нага
+калена
+рука
+крыло
+жывот
+вантробы
+шыя
+сьпіна
+грудзі
+сэрца
+печань
+піць
+есьці
+грызьці
+смактаць
+пляваць
+ванітаваць
+дзьмуць
+дыхаць
+сьмяяцца
+бачыць
+чуць
+ведаць
+думаць
+нюхаць
+баяцца
+спаць
+жыць
+паміраць
+забіваць
+змагацца
+паляваць
+ударыць
+рэзаць
+разьдзяляць
+калоць
+драпаць
+рыць
+плаваць
+лётаць
+хадзіць
+прыходзіць
+ляжаць
+сядзець 
+стаяць
+паварочвацца
+упасьці
+даваць
+трымаць
+сьціскаць
+церці
+мыць
+выціраць
+цягнуць
+штурхаць
+кідаць
+зьвязваць
+шыць
+лічыць
+сказаць
+сьпяваць
+гуляць
+плысьці
+цячы
+замерзнуць
+пухнуць
+сонца
+месяц
+зорка
+вада
+дождж
+рака
+возера
+мора
+соль
+камень
+пясок
+пыл
+зямля
+воблака
+туман
+неба
+вецер 
+сьнег
+лёд
+дым
+агонь
+попел
+гарэць
+шлях
+гара
+чырвоны
+зялёны
+жоўты
+белы
+чорны
+ноч
+дзень
+год
+цёплы
+сьцюдзёны
+поўны
+новы
+стары
+добры
+благі
+гнілы
+брудны
+просты
+круглы
+востры
+тупы
+гладкі
+вільготны
+сухі
+слушны
+блізкі
+далёкі
+правы
+левы
+пры
+ў
+з
+ды
+калі
+таму што
+назва
+аз
+ти
+той
+ние
+вие
+те
+туй
+онуй
+тук
+там
+кой
+що
+где
+кога
+как
+не
+цял
+много
+няколко
+малцина
+друг
+един
+две
+три
+четири
+пет
+голям
+дълъг
+широк
+дебел
+тежък
+малък
+къс
+тесен
+тънък
+жена
+мъж
+човек
+дете
+съпруга
+съпруг
+майка
+баща
+животно
+риба
+птица
+пес
+въшка
+змия
+червей
+дърво
+шума
+бастун
+овошка
+семе
+лист
+корен
+кора
+цвете
+трева
+въже
+кожа
+месо
+кръв
+кокал
+мазнина
+яйце
+рог
+опашка
+перо
+косъм
+глава
+ухо
+око
+нос
+уста
+зъб
+език
+нокът
+стъпало
+крак
+коляно
+ръка
+крило
+корем
+вътрешности
+шия
+гръб
+гръд
+сърце
+черен дроб
+пия
+ям
+хапя
+суча
+плюя
+повръщам
+духам
+дишам
+смея се
+виждам
+чувам
+зная
+мисля
+помирисвам
+страхувам се
+спя
+живея
+умирам
+убивам
+бия се
+ловувам
+удрям
+режа
+цепя
+промушвам
+чеша
+копая
+плувам
+летя
+вървя
+идвам
+лежа
+седя
+стоя
+завивам
+падам
+давам
+държа
+изцеждам
+трия
+мия
+бърша
+дърпам
+натискам
+хвърлям
+връзвам
+шия
+броя
+казвам
+пея
+играя
+плавам
+тека
+замръзвам
+подувам се
+слънце
+луна
+звезда
+вода
+дъжд
+река
+езеро
+море
+сол
+камък
+пясък
+прах
+земя
+облак
+мъгла
+небе
+вятър
+сняг
+лед
+дим
+огън
+пепел
+горя
+шосе
+планина
+червен
+зелен
+жълт
+бял
+черен
+нощ
+ден
+година
+топъл
+хладен
+пълен
+нов
+стар
+добър
+зъл
+гнил
+нечист
+прав
+кръгъл
+остър
+тъп
+гладък
+мокър
+сух
+правилен
+близък
+далечен
+десен
+ляв
+до
+във
+със
+и
+ако
+защото
+име
+ja
+ti
+on
+mi
+vi
+ona
+ovo
+to
+ovdje
+tamo
+ko
+šta
+gdje
+kad
+kako
+ne
+sve
+mnogo
+nekoliko
+malo
+drugi
+jedan
+dva
+tri
+četiri
+pet
+velik
+dug
+širok
+tust
+težak
+mal
+kratak
+uzak
+tanak
+žena
+muškarac
+čovjek
+dijete
+žena
+suprug
+majka
+otac
+životinja
+riba
+ptica
+pas
+uš
+zmija
+crv
+drvo
+gora
+palica
+plod
+sjeme
+list
+korijen
+kora
+cvijet
+trava
+kanap
+koža
+meso
+krv
+kost
+salo
+jaje
+rog
+rep
+pero
+vlas
+glava
+uho
+oko
+nos
+usta
+zub
+jezik
+nokat
+stopalo
+noga
+koljeno
+ruka
+krilo
+trbuh
+utroba
+vrat
+leđa
+prsa
+srce
+jetra
+piti
+jesti
+gristi
+sisati
+pljuvati
+bljuvati
+duhati
+disati
+smijati
+vidjeti
+čuti
+znati
+misliti
+njušiti
+strahovati
+spavati
+živjeti
+umrijeti
+ubiti
+bojovati
+loviti
+udariti
+sjeći
+razdijeliti
+ubosti
+češati
+kopati
+plivati
+letjeti
+hodati
+doći
+ležati
+sjesti
+stati
+skrenuti
+pasti
+dati
+držati
+stisnuti
+trti
+prati
+brisati
+vući
+gurati
+baciti
+vezati
+šiti
+brojati
+kazati
+pjevati
+igrati
+plutati
+teći
+smrznuti
+oteći
+sunce
+mjesec
+zvijezda
+voda
+kiša
+rijeka
+jezero
+more
+sol
+kamen
+pijesak
+prašina
+zemlja
+oblak
+magla
+nebo
+vjetar
+snijeg
+led
+dim
+oganj
+pepeo
+gorjeti
+cesta
+gora
+crven
+zelen
+žut
+bijel
+crn
+noć
+dan
+godina
+topao
+hladan
+pun
+nov
+star
+dobar
+loš
+gnjio
+prljav
+ravan
+okrugao
+oštar
+tup
+gladak
+mokar
+suh
+ispravan
+blizak
+dalek
+desni
+lijevi
+kod
+u
+sa
+i
+ako
+zato što
+ime
+jo
+tu
+ell
+nosaltres
+vosaltres
+ells, elles
+aquest
+aquell
+aquí
+allà
+qui
+què
+on
+quan
+com
+no
+tot
+molt
+algun, una mica
+poc
+altre
+un
+dos
+tres
+quatre
+cinc
+gran, gros
+llarg
+ample
+gruixut
+pesat
+petit
+curt
+estret
+prim
+dona
+home
+persona
+nen
+muller
+marit
+mare
+pare
+animal
+peix
+ocell
+gos
+poll
+serp
+cuc
+arbre
+bosc
+bastó
+fruit, fruita
+llavor
+fulla
+arrel
+escorça
+flor
+herba
+corda
+pell
+carn
+sang
+os
+gras
+ou
+banya
+cua
+ploma
+pèl, cabell
+cap
+orella
+ull
+nas
+boca
+dent
+llengua
+ungla
+peu
+cama
+genoll
+ma
+ala
+panxa
+budells
+coll
+esquena
+pit
+cor
+fetge
+beure
+menjar
+mossegar
+xuclar, llepar
+escopir
+vomitar
+bufar
+respirar
+riure
+veure
+escoltar
+saber
+pensar
+olorar
+témer
+dormir
+viure
+morir
+matar
+lluitar
+caçar
+colpejar, picar
+tallar
+partir, dividir
+apunyalar
+gratar, rascar, esgarrapar
+cavar, excavar
+nedar
+volar
+caminar
+venir
+jeure
+seure
+estar dret
+girar
+caure
+donar
+aguantar, sostenir
+apretar
+fregar
+rentar, netejar
+eixugar
+estirar
+empènyer
+llançar, llençar
+lligar
+cosir
+comptar
+dir
+cantar
+jugar
+flotar
+fluir
+gelar, congelar
+inflar
+sol
+lluna
+estel, estrella
+aigua
+pluja
+riu
+llac
+mar
+sal
+pedra
+sorra
+pols
+terra
+núvol
+boira
+cel
+vent
+neu
+gel, glaç
+fum
+foc
+cendres
+cremar
+carretera
+muntanya
+vermell, roig
+verd
+groc
+blanc
+negre
+nit
+dia
+any
+càlid
+fred
+ple
+nou
+vell
+bo
+dolent
+podrit
+brut
+recte
+rodó
+esmolat, agut
+rom
+llis, suau
+humit, mullat
+sec
+correcte
+prop, a prop
+lluny
+dreta
+esquerra
+a
+dins
+amb
+i
+si
+perquè
+nom
+já
+ty
+on
+my
+vy
+ona
+toto
+tamto
+sem
+tam
+kdo
+co
+kde
+kdy
+jak
+ne
+všechno
+mnoho
+trocha
+nemnoho
+druhý
+jeden
+dva
+tři
+čtyři
+pět
+velký
+dlouhý
+široký
+hrubý
+těžký
+malý
+krátký
+úzký
+tenký
+žena
+muž
+člověk
+dítě
+choť
+choť
+mateř
+otec
+zvíře
+ryba
+pták
+pes
+veš
+had
+červ
+strom
+les
+pálka
+plod
+sémě
+list
+kořen
+kůra
+květ
+tráva
+šňůra
+kůže
+maso
+krev
+kost
+maz
+vejce
+roh
+chvost
+pero
+vlasy
+hlava
+ucho
+oko
+nos
+pusa
+zub
+jazyk
+nehet
+stopa
+noha
+koleno
+dlaň
+křídlo
+břicho
+útroby
+šíje
+hřbet
+ňadro
+srdce
+játra
+pít
+jíst
+hryzat
+cucat
+plivat
+dávit
+vít
+dýchat
+smát se
+vidět
+slyšet
+znát
+dumat
+cítit
+strachovat se
+spát
+žít
+umírat
+usmrtit
+válčit
+lovit
+udeřit
+sekat
+rozdělit
+píchnout
+škrábat
+kopat
+plavat
+letět
+chodit
+přijít
+ležet
+sedět
+stát
+obrátit
+upadnout
+dát
+držet
+stisknout
+třít
+umývat
+utírat
+tahat
+tlačit
+házet
+vázat
+šít
+počítat
+říkat
+zpívat
+hrát
+plout
+téci
+zmrznout
+otékat
+slunce
+luna
+hvězda
+voda
+déšť
+řeka
+jezero
+moře
+sůl
+kámen
+písek
+prach
+země
+oblak
+mlha
+nebe
+vítr
+sníh
+led#Czech|led
+dým
+oheň
+popel
+hořet
+cesta
+hora
+červený
+zelený
+žlutý
+bílý
+černý
+noc
+den
+rok
+teplý
+chladný
+plný
+nový
+starý
+dobrý
+zlý
+shnilý
+špinavý
+přímý
+kulatý
+ostrý
+tupý
+hladký
+mokrý
+suchý
+správný
+blízký
+daleký
+pravý
+levý
+při
+v
+s
+i
+jestli
+protože
+jméno
+азъ
+тъі
+онъ
+мъі
+въі
+овъ, сь
+тъ, та, то
+сьдє, овъдє
+тѹ, онъдє
+къто
+чьто
+къдє
+къгда
+како, яко
+нє
+вьсь
+мъногъ
+инъ
+ѥдинъ
+дъва
+триѥ
+чєтъірє
+пѧть
+вєликъ
+дльгъ
+широкъ
+дєбєлъ
+тѧжъкъ
+малъ
+кратъкъ
+ѫзъкъ
+тьнъкъ
+жєна
+мѫжь
+чловѣкъ
+дѣть, отрокъ
+жєна
+мѫжь
+мати
+отьць
+звѣрь
+ръіба
+пьсъ
+змия
+чрьвь
+дрѣво
+лѣсъ
+палица
+овощє
+сѣмѧ
+листъ
+корєнь
+кора
+цвѣтъ
+трава
+кожа
+мѧсо
+кръі
+кость
+тѹкъ
+аицє
+рогъ
+власъ
+глава
+ѹхо
+око
+носъ
+ѹста
+зѫбъ
+ѩзъікъ
+ногъть
+стопа
+нога
+колѣно
+рѫка
+крило
+ѫтроба, чрѣво
+прьси
+срьдьцє
+пити
+ясти
+хапати
+съсати
+пльвати
+бльвати
+дѹхати
+дъіхати
+смияти
+видѣти
+слъішати
+вѣдѣти, знати
+мъіслити
+бояти
+съпати
+жити
+ѹмрѣти
+ѹбити
+брати
+ловити
+ѹдарити
+сѣщи, рѣзати
+бости
+чєсати
+копати
+плавати
+лєтѣти
+ходити
+лєжати
+сѣдѣти
+стати
+пасти, падати
+дати, даяти
+дрьжати
+трьти
+мъіти
+вѧзати
+рєщи
+пѣти
+тєшти
+помръзнѫти
+слъньцє
+мѣсѧць, лѹна
+звѣзда
+вода
+дъждь
+рѣка
+ѥзєръ
+морѥ
+соль
+камъі
+пѣсъкъ
+прахъ
+зємля
+облакъ
+нєбо
+вѣтръ
+снѣгъ
+лєдъ
+дъімъ
+огнь
+горѣти
+пѫть
+гора
+чръвєнъ
+зєлєнъ
+бѣлъ
+чрънъ
+нощь
+дьнь
+лѣто, 
+топлъ
+хладьнъ, стѹдєнъ
+испльнь
+новъ, новъіи
+старъ
+добръ
+зълъ
+правъ, равьнъ
+остръ
+гладъкъ
+мокръ
+сѹхъ
+правъ
+близъ
+дальнии, дальнъ
+дєснъ, правъ
+лѣвъ
+ѹ, при
+въ
+съ
+и
+ащє
+понєжє пон҄єжє
+имѧ
+ich
+du, Sie
+er
+wir
+ihr, Sie
+sie
+dieses
+jenes
+hier
+dort
+wer
+was
+wo
+wann
+wie
+nicht
+alle
+viele
+einige
+wenige
+andere
+eins
+zwei
+drei
+vier
+fünf
+groß
+lang
+breit, weit
+dick
+schwer
+klein
+kurz
+eng
+dünn
+Frau
+Mann
+Mensch
+Kind
+Frau, Ehefrau
+Mann, Ehemann
+Mutter
+Vater
+Tier
+Fisch
+Vogel
+Hund
+Laus
+Schlange
+Wurm
+Baum
+Wald
+Stock
+Frucht
+Samen
+Blatt
+Wurzel
+Rinde
+Blume
+Gras
+Seil
+Haut
+Fleisch
+Blut
+Knochen
+Fett
+Ei
+Horn
+Schwanz
+Feder
+Haar
+Kopf, Haupt
+Ohr
+Auge
+Nase
+Mund
+Zahn
+Zunge
+Fingernagel
+Fuß
+Bein
+Knie
+Hand
+Flügel
+Bauch
+Eingeweide, Innereien
+Hals
+Rücken
+Brust
+Herz
+Leber
+trinken
+essen
+beißen
+saugen
+spucken
+erbrechen
+blasen
+atmen
+lachen
+sehen
+hören
+wissen
+denken
+riechen
+fürchten
+schlafen
+leben
+sterben
+töten
+kämpfen
+jagen
+schlagen
+schneiden
+spalten
+stechen
+kratzen
+graben
+schwimmen
+fliegen
+gehen
+kommen
+liegen
+sitzen
+stehen
+drehen
+fallen
+geben
+halten
+quetschen
+reiben
+waschen
+wischen
+ziehen
+drücken
+werfen
+binden
+nähen
+zählen
+sagen
+singen
+spielen
+schweben
+fließen
+frieren
+schwellen
+Sonne
+Mond
+Stern
+Wasser
+Regen
+Fluß
+See
+Meer, See
+Salz
+Stein
+Sand
+Staub
+Erde
+Wolke
+Nebel
+Himmel
+Wind
+Schnee
+Eis
+Rauch
+Feuer
+Asche
+brennen
+Straße
+Berg
+rot
+grün
+gelb
+weiß
+schwarz
+Nacht
+Tag
+Jahr
+warm
+kalt
+voll
+neu
+alt
+gut
+schlecht
+verrottet
+schmutzig
+gerade
+rund
+scharf
+stumpf
+glatt
+nass, feucht
+trocken
+richtig
+nah, nahe
+weit, fern
+rechts
+links
+bei, an
+in
+mit
+und
+wenn, falls, ob
+weil
+Name
+I
+you (singular), thou
+he
+we
+you (plural)
+they
+this
+that
+here
+there
+who
+what
+where
+when
+how
+not
+all
+many
+some
+few
+other
+one
+two
+three
+four
+five
+big
+long
+wide
+thick
+heavy
+small
+short
+narrow
+thin
+woman
+man (adult male)
+man (human being)
+child
+wife
+husband
+mother
+father
+animal
+fish
+bird
+dog
+louse
+snake
+worm
+tree
+forest
+stick
+fruit
+seed
+leaf
+root
+bark (from tree)
+flower
+grass
+rope
+skin
+meat
+blood
+bone
+fat (noun)
+egg
+horn
+tail
+feather
+hair
+head
+ear
+eye
+nose
+mouth
+tooth
+tongue
+fingernail
+foot
+leg
+knee
+hand
+wing
+belly
+guts
+neck
+back
+breast
+heart
+liver
+drink
+eat
+bite
+suck
+spit
+vomit
+blow
+breathe
+laugh
+see
+hear
+know (a fact)
+think
+smell
+fear
+sleep
+live
+die
+kill
+fight
+hunt
+hit
+cut
+split
+stab
+scratch
+dig
+swim
+fly (verb)
+walk
+come
+lie
+sit
+stand
+turn
+fall
+give
+hold
+squeeze
+rub
+wash
+wipe
+pull
+push
+throw
+tie
+sew
+count
+say
+sing
+play
+float
+flow
+freeze
+swell
+sun
+moon
+star
+water
+rain
+river
+lake
+sea
+salt
+stone
+sand
+dust
+earth
+cloud
+fog
+sky
+wind
+snow
+ice
+smoke
+fire
+ashes
+burn
+road
+mountain
+red
+green
+yellow
+white
+black
+night
+day
+year
+warm
+cold
+full
+new
+old
+good
+bad
+rotten
+dirty
+straight
+round
+sharp
+dull
+smooth
+wet
+dry
+correct
+near
+far
+right
+left
+at
+in
+with
+and
+if
+because
+name
+yo
+tú, usted
+él
+nosotros
+vosotros, ustedes
+ellos, ellas
+este
+ese, aquel
+aquí, acá
+ahí, allí, allá
+quien
+que
+donde
+cuando
+como
+no
+todo
+muchos
+algunos, unos
+poco
+otro
+uno
+dos
+tres
+cuatro
+cinco
+grande
+largo
+ancho
+gordo
+pesado
+pequeño
+corto
+estrecho, angosto
+delgado, flaco
+mujer
+hombre
+hombre
+niño
+esposa, mujer
+esposo, marido
+madre
+padre
+animal
+pez, pescado
+ave, pájaro
+perro
+piojo
+serpiente, culebra
+gusano
+árbol
+bosque
+palo
+fruta
+semilla
+hoja
+raíz
+corteza
+flor
+hierba, pasto
+cuerda
+piel
+carne
+sangre
+hueso
+grasa
+huevo
+cuerno
+cola
+pluma
+cabello, pelo
+cabeza
+oreja
+ojo
+nariz
+boca
+diente
+lengua
+uña
+pie
+pierna
+rodilla
+mano
+ala
+barriga, vientre, panza
+entrañas, tripas
+cuello
+espalda
+pecho, seno
+corazón
+hígado
+beber, tomar
+comer
+morder
+chupar
+escupir
+vomitar
+soplar
+respirar
+reír
+ver
+oír
+saber
+pensar
+oler
+temer
+dormir
+vivir
+morir
+matar
+pelear
+cazar
+golpear
+cortar
+partir
+apuñalar
+arañar, rascar
+cavar
+nadar
+volar
+caminar
+venir
+echarse, acostarse, tenderse
+sentarse
+estar de pie
+voltear
+caer
+dar
+sostener
+apretar
+frotar
+lavar
+limpiar
+tirar
+empujar
+tirar
+atar
+coser
+contar
+decir
+cantar
+jugar
+flotar
+fluir
+helar
+hincharse
+sol
+luna
+estrella
+agua
+lluvia
+río
+lago
+mar
+sal
+piedra
+arena
+polvo
+tierra
+nube
+niebla
+cielo
+viento
+nieve
+hielo
+humo
+fuego
+cenizas
+quemar
+camino
+montaña
+rojo
+verde
+amarillo
+blanco
+negro
+noche
+día
+año
+cálido, tibio
+frío
+lleno
+nuevo
+viejo
+bueno
+malo
+podrido
+sucio
+recto
+redondo
+afilado
+desafilado
+suave, liso
+mojado
+seco
+correcto
+cerca
+lejos
+derecha
+izquierda
+a, en, ante
+en
+con
+y
+si
+porque
+nombre
+je
+tu, vous
+il
+nous
+vous
+ils, elles
+ceci
+cela
+ici
+là
+qui
+quoi
+où
+quand
+comment
+ne...pas
+tout
+plusieurs
+quelques
+peu
+autre
+un
+deux
+trois
+quatre
+cinq
+grand
+long
+large
+épais
+lourd
+petit
+court
+étroit
+mince
+femme
+homme
+homme
+enfant
+femme, épouse
+mari, époux
+mère
+père
+animal
+poisson
+oiseau
+chien
+pou
+serpent
+ver
+arbre
+forêt
+bâton
+fruit
+graine
+feuille
+racine
+écorce
+fleur
+herbe
+corde
+peau
+viande
+sang
+os
+graisse
+œuf
+corne
+queue
+plume
+cheveu
+tête
+oreille
+œil
+nez
+bouche
+dent
+langue
+ongle
+pied
+jambe
+genou
+main
+aile
+ventre
+entrailles
+cou
+dos
+sein, poitrine
+cœur
+foie
+boire
+manger
+mordre
+sucer
+cracher
+vomir
+souffler
+respirer
+rire
+voir
+entendre
+savoir
+penser
+sentir
+craindre, avoir peur
+dormir
+vivre
+mourir
+tuer
+se battre
+chasser
+frapper
+couper
+fendre
+poignarder
+gratter
+creuser
+nager
+voler
+marcher
+venir
+s'étendre
+s'asseoir
+se lever
+tourner
+tomber
+donner
+tenir
+serrer
+frotter
+laver
+essuyer
+tirer
+pousser
+jeter
+lier
+coudre
+compter
+dire
+chanter
+jouer
+flotter
+couler
+geler
+gonfler
+soleil
+lune
+étoile
+eau
+pluie
+rivière
+lac
+mer
+sel
+pierre
+sable
+poussière
+terre
+nuage
+brouillard
+ciel
+vent
+neige
+glace
+fumée
+feu
+cendres
+brûler
+route
+montagne
+rouge
+vert
+jaune
+blanc
+noir
+nuit
+jour
+an, année
+chaud
+froid
+plein
+nouveau
+vieux
+bon
+mauvais
+pourri
+sale
+droit
+rond
+tranchant, pointu, aigu
+émoussé
+lisse
+mouillé
+sec
+juste, correct
+proche
+loin
+à droite
+à gauche
+à
+dans
+avec
+et
+si
+parce que
+nom
+ja
+ti
+on
+mi
+vi
+ona
+ovo
+to
+ovdje
+tamo
+tko
+što
+gdje
+kad
+kako
+ne
+sve
+mnogo
+nekoliko
+malo
+ini
+jedan
+dva
+tri
+četiri
+pet
+velik
+dug
+širok
+tust
+težak
+mal
+kratak
+uzak
+tanak
+žena
+muškarac
+čovjek
+dijete
+žena
+suprug
+majka
+otac
+životinja
+riba
+ptica
+pas
+uš
+zmija
+crv
+drvo
+gora
+palica
+plod
+sjeme
+list
+korijen
+kora
+cvijet
+trava
+konop
+koža
+meso
+krv
+kost
+salo
+jaje
+rog
+rep
+pero
+vlas
+glava
+uho
+oko
+nos
+usta
+zub
+jezik
+nokat
+stopalo
+noga
+koljeno
+ruka
+krilo
+trbuh
+utroba
+vrat
+leđa
+prsa
+srce
+jetra
+piti
+jesti
+gristi
+sisati
+pljuvati
+bljuvati
+duhati
+disati
+smijati
+vidjeti
+čuti
+znati
+misliti
+njušiti
+strahovati
+spavati
+živjeti
+umrijeti
+ubiti
+bojovati
+loviti
+udariti
+sjeći
+razdijeliti
+ubosti
+češati
+kopati
+plivati
+letjeti
+hodati
+doći
+ležati
+sjesti
+stati
+skrenuti
+pasti
+dati
+držati
+stisnuti
+trti
+prati
+brisati
+vući
+gurati
+baciti
+vezati
+šiti
+brojati
+kazati
+pjevati
+igrati
+plutati
+teći
+smrznuti
+oteći
+sunce
+mjesec
+zvijezda
+voda
+dažd
+rijeka
+jezero
+more
+sol
+kamen
+pijesak
+prašina
+zemlja
+oblak
+magla
+nebo
+vjetar
+snijeg
+led
+dim
+oganj
+pepeo
+gorjeti
+cesta
+gora
+crven
+zelen
+žut
+bijel
+crn
+noć
+dan
+godina
+topao
+hladan
+pun
+nov
+star
+dobar
+loš
+gnjio
+prljav
+ravan
+okrugao
+oštar
+tup
+gladak
+mokar
+suh
+ispravan
+blizak
+dalek
+desni
+lijevi
+kod
+u
+sa
+i
+ako
+zato što
+ime
+io
+tu, Lei
+lui, egli
+noi
+voi
+loro, essi
+questo
+quello
+qui, qua
+là
+chi
+che
+dove
+quando
+come
+non
+tutto
+molti
+alcuni
+pochi
+altro
+uno
+due
+tre
+quattro
+cinque
+grande
+lungo
+largo
+spesso
+pesante
+piccolo
+corto
+stretto
+sottile
+donna
+uomo
+uomo
+bambino
+moglie
+marito
+madre
+padre
+animale
+pesce
+uccello
+cane
+pidocchio
+serpente
+verme
+albero
+foresta
+bastone
+frutta
+seme
+foglia
+radice
+corteccia
+fiore
+erba
+corda
+pelle
+carne
+sangue
+osso
+grasso
+uovo
+corno
+coda
+piuma
+capelli
+testa
+orecchio
+occhio
+naso
+bocca
+dente
+lingua
+unghia
+piede
+gamba
+ginocchio
+mano
+ala
+pancia
+intestino
+collo
+schiena
+petto
+cuore
+fegato
+bere
+mangiare
+mordere
+succhiare
+sputare
+vomitare
+soffiare
+respirare
+ridere
+vedere
+udire, sentire
+sapere
+pensare
+odorare, annusare
+temere
+dormire
+vivere
+morire
+uccidere
+combattere
+cacciare
+colpire
+tagliare
+dividere, separare
+pugnalare
+graffiare
+scavare
+nuotare
+volare
+camminare
+venire
+distendersi
+sedere
+stare in piedi
+girare
+cadere
+dare
+tenere
+spremere
+strofinare
+lavare
+asciugare
+tirare
+spingere
+tirare
+legare
+cucire
+contare
+dire
+cantare
+giocare
+galleggiare
+fluire
+gelare
+gonfiare
+sole
+luna
+stella
+acqua
+pioggia
+fiume
+lago
+mare
+sale
+pietra
+sabbia
+polvere
+terra
+nuvola
+nebbia
+cielo
+vento
+neve
+ghiaccio
+fumo
+fuoco
+ceneri
+bruciare
+strada
+montagna
+rosso
+verde
+giallo
+bianco
+nero
+notte
+giorno
+anno
+caldo
+freddo
+pieno
+nuovo
+vecchio
+buono
+cattivo
+marcio
+sporco
+diritto
+rotondo
+aguzzo, affilato
+noioso
+liscio
+bagnato
+asciutto, secco
+corretto
+vicino
+lontano
+destra
+sinistra
+a
+in
+con
+e
+se
+perché
+nome
+ego
+tu
+is, ea
+nos
+vos
+ii, eae
+hic, is
+ille
+hic
+ibi
+quis
+quid
+ubi
+quando
+quam, quomodo
+non
+omnis
+multi
+aliqui, aliquot
+pauci
+alter, alius
+unus
+duo
+tres
+quattuor
+quinque
+magnus, grandis
+longus
+latus
+creber
+gravis
+parvus
+brevis
+angustus
+macer
+femina
+vir
+homo
+puer
+uxor, mulier
+maritus
+mater
+pater
+animal
+piscis
+avis
+canis
+pedis
+serpens
+vermis
+arbor
+silva
+fustis
+fructus
+semen
+folium
+radix
+cortex
+flos
+herba
+funis
+cutis
+caro
+sanguis
+os
+adeps
+ovum
+cornu
+cauda
+penna
+capillus, coma, crinis
+caput
+auris
+oculus
+nasus
+os
+dens
+lingua
+unguis
+pes
+crus
+genu
+manus
+ala
+venter
+intestina
+collum, cervix
+tergum
+pectus, mamma
+cor
+iecur
+bibere
+edere
+mordere
+sugere
+sputare
+vomere
+flare
+spirare
+ridere
+videre
+audire
+scire
+putare
+olere
+timere
+dormire
+vivere
+mori
+necare
+pugnare
+venari
+pellere
+secare
+scindere, partiri
+traicere
+radere
+fodere
+natare
+volare
+gradi
+venire
+iacere
+sedere
+stare
+vertere
+cadere
+dare
+tenere
+premere
+fricare
+lavare
+tergere
+trahere
+pellere, urgere
+iacere
+stringere, ligare
+suere
+numerare
+dicere
+canere
+ludere
+fluctuare
+fluere
+gelare
+inflare
+sol
+luna
+stella
+aqua
+pluvia
+fluvius
+lacus
+mare
+sal
+lapis, petra
+arena
+pulvis
+terra
+nimbus, nubes
+caligo, nebula
+caelum
+ventus
+nix
+glacies
+fumus
+ignis
+cineres
+ardere
+via
+mons
+ruber
+viridis
+flavus
+albus, candidus
+niger, ater, fuscus
+nox
+dies
+annus
+calidus
+frigidus
+plenus
+novus
+vetus
+bonus
+malus
+puter, putridus
+sordidus
+rectus
+rotundus
+acer
+hebes
+levis
+umidus
+siccus
+rectus
+propinquus
+longinquus
+dexter
+sinister
+ad
+in
+cum
+et
+si
+quia, quoniam
+nomen
+јас
+ти
+тој
+ние
+вие
+тие
+овој
+тоа
+тука
+таму
+кој
+што
+каде
+кога
+како
+не
+сите
+многу
+неколку
+малку
+друг
+еден
+два
+три
+четири
+пет
+голем
+долг
+широк
+густ
+тежок
+мал
+краток
+тесен
+тенок
+жена
+маж
+човек
+дете
+сопруга
+сопруг
+мајка
+татко
+животно
+риба
+птица
+пес
+вошка
+змија
+црв
+дрво
+шума
+прачка
+плод
+семе
+лист
+корен
+кора
+цвет
+трева
+коноп
+кожа
+месо
+крв
+коска
+сало
+јајце
+рог
+опашка
+перо
+влакно
+глава
+уво
+око
+нос
+уста
+заб
+јазик
+нокт
+стапало
+нога
+колено
+рака
+крило
+стомак
+црева
+шија
+грб
+града
+срце
+црн дроб
+пие
+јаде
+гриз
+цица
+плука
+блуе
+дува
+вдишува
+смее
+гледа
+слуша
+знае
+помислува
+смрди
+плаши
+спие
+живее
+умира
+убива
+бие
+ловува
+чука
+реже
+расцепува
+убодува
+чеша
+копа
+плива
+лета
+оди
+доаѓа
+леже
+седи
+стои
+врти
+паѓа
+дава
+држи
+стиска
+трие
+мие
+брише
+влече
+бутка
+фрла
+врзува
+шие
+брои
+кажува
+пее
+игра
+плови
+тече
+замрзнува
+набабрува
+сонце
+месечина
+ѕвезда
+вода
+дожд
+река
+езеро
+море
+сол
+камен
+песок
+прашина
+земја
+облак
+магла
+небо
+ветер
+снег
+лед
+чад
+оган
+пепел
+гори
+пат
+планина
+црвен
+зелен
+жолт
+бел
+црн
+ноќ
+ден
+година
+топол
+ладен
+полн
+нов
+стар
+добар
+лош
+гнил
+нечист
+прав
+кружен
+остар
+тап
+мазен
+влажен
+сув
+правилен
+близок
+далечен
+десно
+лево
+кај
+во
+со
+и
+ако
+зашто
+име
+ik
+jij, je, U
+hij
+wij, we
+jullie
+zij, ze
+deze, dit
+die, dat
+hier
+daar
+wie
+wat
+waar
+wanneer
+hoe
+niet
+al, alle
+veel
+enkele, sommige
+weinig
+ander
+een
+twee
+drie
+vier
+vijf
+groot
+lang
+breed, wijd
+dik
+zwaar
+klein
+kort
+smal
+dun
+vrouw
+man
+mens
+kind
+vrouw, echtgenote
+man, echtgenoot
+moeder
+vader
+dier
+vis
+vogel
+hond
+luis
+slang
+worm
+boom
+woud
+stok
+fruit, vrucht
+zaad
+blad
+wortel
+schors
+bloem
+gras
+touw, koord
+huid
+vlees
+bloed
+been, bot
+vet
+ei
+hoorn
+staart
+veer
+haar
+hoofd, kop
+oor
+oog
+neus
+mond
+tand
+tong
+vingernagel
+voet
+been
+knie
+hand
+vleugel
+buik
+ingewanden
+nek
+rug
+borst
+hart
+lever
+drinken
+eten
+bijten
+zuigen
+spuwen
+braken, overgeven
+blazen
+ademen
+lachen
+zien
+horen
+weten
+denken
+ruiken
+vrezen, angst
+slapen
+leven
+sterven
+doden
+vechten
+jagen
+slaan
+snijden
+splijten
+steken
+krabben
+graven
+zwemmen
+vliegen
+lopen, stappen
+komen
+liggen
+zitten
+staan
+draaien
+vallen
+geven
+houden
+knijpen
+wrijven
+wassen
+vegen
+trekken
+duwen
+werpen, gooien
+knopen
+naaien
+tellen
+zeggen
+zingen
+spelen
+zweven
+vloeien
+vriezen
+zwellen
+zon
+maan
+ster
+water
+regen
+rivier
+meer
+zee
+zout
+steen
+zand
+stof
+aarde
+wolk
+mist, nevel
+lucht
+wind
+sneeuw
+ijs
+rook
+vuur
+as
+branden
+weg
+berg
+rood
+groen
+geel
+wit
+zwart
+nacht
+dag
+jaar
+warm
+koud
+vol
+nieuw
+oud
+goed
+slecht
+rot
+vies
+recht
+rond
+scherp
+stomp, bot
+glad
+nat
+droog
+juist, correct
+dichtbij
+ver
+rechts
+links
+aan, te, bij
+in
+met
+en
+als, indien
+omdat
+naam
+ja
+ty
+on
+my
+wy
+oni, one
+ten, ta, to
+tamto
+tu
+tam
+kto
+co
+gdzie
+kiedy
+jak
+nie
+wszystko
+mnóstwo
+trochę
+niewiele
+inny
+jeden
+dwa
+trzy
+cztery
+pięć
+wielki
+długi
+szeroki
+gruby
+ciężki
+mały
+krótki
+wąski
+cienki
+kobieta
+mężczyzna
+człowiek
+dziecko
+małżonka
+mąż
+matka
+ojciec
+zwierzę
+ryba
+ptak
+pies
+wesz
+wąż
+czerw
+drzewo
+bór
+pałka
+owoc
+nasionko
+liść
+korzeń
+kora
+kwiat
+trawa
+sznur
+skóra
+mięso
+krew
+kość
+sadło
+jajko
+róg
+ogon
+pióro
+włosy
+głowa
+ucho
+oko
+nos
+usta
+ząb
+język
+paznokieć
+stopa
+noga
+kolano
+ręka
+skrzydło
+brzuch
+wnętrzności
+szyja
+plecy
+pierś
+serce
+wątroba
+pić
+jeść
+gryźć
+ssać
+pluć
+wymiotować
+dąć
+oddychać
+śmiać się
+widzieć
+słyszeć
+wiedzieć
+myśleć
+wąchać
+bać się
+spać
+żyć
+umierać
+zabijać
+walczyć
+polować
+uderzać
+ciąć
+rozdzielać
+pchnąć
+drapać
+kopać
+pływać
+latać
+chodzić
+przychodzić
+leżeć
+siedzieć
+stać
+obracać
+upadać
+dawać
+trzymać
+zgniatać
+trzeć
+myć
+wycierać
+ciągnąć
+pchać
+rzucać
+wiązać
+szyć
+liczyć
+mówić
+śpiewać
+grać
+unosić się
+przepływać
+zamarzać
+puchnąć
+słońce
+miesiąc
+gwiazda
+woda
+deszcz
+rzeka
+jezioro
+morze
+sól
+kamień
+piasek
+kurz
+ziemia
+obłok
+mgła
+niebo
+wiatr
+śnieg
+lód
+dym
+ogień
+popiół
+palić
+droga
+góra
+czerwony
+zielony
+żółty
+biały
+czarny
+noc
+dzień
+rok
+ciepły
+zimny
+pełny
+nowy
+stary
+dobry
+zły
+zgniły
+brudny
+prosty
+okrągły
+ostry
+tępy
+gładki
+mokry
+suchy
+prawidłowy
+bliski
+daleki
+prawy
+lewy
+przy
+w
+z
+i
+jeżeli
+ponieważ
+nazwa
+eu
+tu, você
+ele
+nós
+vós, vocês
+eles, elas
+este, isto
+aquele, aquilo
+aqui
+lá, ali, aí
+quem
+que, o que
+onde
+quando
+como
+não
+todo
+muito
+algum
+pouco
+outro, outra
+um, uma
+dois, duas
+três
+quatro
+cinco
+grande
+longe
+largo
+grosso, espesso
+pesado
+pequeno
+curto
+estreito
+tênue, magro
+mulher
+homem
+homem
+criança, filho
+esposa, mulher
+esposo, marido
+mãe
+pai
+animal
+peixe
+ave, pássaro
+cão, cachorro
+piolho
+cobra, serpente
+verme
+árvore
+floresta
+bastão, vara
+fruta, fruto
+semente
+folha
+raiz
+casca
+flor
+grama, erva
+corda
+pele, cútis
+carne
+sangue
+osso
+gordura
+ovo
+chifre, corno
+cauda, rabo
+pena, pluma
+pelo, cabelo
+cabeça
+orelha
+olho
+nariz
+boca
+dente
+língua
+unha
+pé
+perna
+joelho
+mão
+asa
+barriga, ventre
+tripas, entranhas
+pescoço, colo
+costas, dorso
+peito, seio
+coração
+fígado
+beber
+comer
+morder
+sugar, chupar
+cuspir
+vomitar
+soprar
+respirar
+rir
+ver
+ouvir
+saber
+pensar
+cheirar
+temer
+dormir
+viver
+morrer
+matar
+lutar
+caçar
+bater
+cortar
+fender, rachar
+esfaquear, apunhalar
+arranhar, raspar
+cavar, excavar
+nadar
+voar
+andar, caminhar, passear
+vir
+estar, deitado, jazer
+sentar, estar, sentado
+estar, de pé, estar, em pé
+virar, girar
+cair
+dar
+segurar
+apertar, comprimir
+esfregar, friccionar
+lavar
+enxugar
+puxar
+empurrar
+jogar, atirar, lançar
+amarrar
+costurar
+contar
+dizer
+cantar
+jogar, brincar
+flutuar, boiar
+fluir
+gelar, congelar, refrigerar
+inchar, intumescer
+sol
+lua
+estrela
+água
+chuva
+rio
+lago
+mar
+sal
+pedra
+areia
+pó, poeira
+terra
+nuvem
+neblina, névoa, nevoeiro, bruma
+céu
+vento
+neve
+gelo
+fumaça
+fogo
+cinzas
+queimar, arder
+estrada
+montanha
+vermelho, rubro
+verde
+amarelo
+branco
+preto, negro
+noite
+dia
+ano
+quente, cálido
+frio, frígido
+cheio, pleno, completo
+novo
+velho
+bom
+mau
+estragado
+sujo, imundo
+reto
+redondo
+afiado, aguçado
+cego, embotado
+liso
+úmido, molhado
+seco
+correto
+próximo, perto
+distante, longe
+direito
+esquerdo
+a, em
+em
+com
+e
+se
+porque
+nome
+eu
+tu
+el, ea
+noi
+voi
+ei, ele
+acesta, aceasta, acest, această
+acela, aceea, acel, acea
+aici, ací
+acolo
+cine
+ce
+unde
+când
+cum
+nu
+tot
+multe, mulţi
+nişte
+puţin
+alt, altă
+unu, un, una
+doi, două
+trei
+patru
+cinci
+mare
+lung
+larg
+gros
+greu
+mic
+scurt
+strâmt
+subţire, slab
+femeie, muiere
+bărbat
+om
+copil
+soţie, nevastă
+soţ, bărbat
+mamă
+tată
+vietate, animal
+peşte
+pasăre
+câine
+păduche
+şarpe
+vierme
+arbore, copac
+pădure
+băţ, baston
+fruct
+sămânţă, grăunte
+frunză
+rădăcină
+scoarţă
+floare
+iarbă
+sfoară, frânghie, coardă
+piele
+carne
+sânge
+os
+grăsime
+ou
+corn
+coadă
+pană, fulg
+păr
+cap
+ureche
+ochi
+nas
+gură
+dinte
+limbă
+unghie
+laba piciorului
+picior
+genunchi
+mână
+aripă
+burtă, vintre, pântece
+maţe, măruntaie
+gât
+spate, spinare
+piept
+inimă
+ficat
+a bea
+a mânca
+a muşca
+a suge
+a scuipa
+a vomita
+a sufla
+a respira
+a râde
+a vedea
+a auzi
+a şti
+a gândi
+a mirosi
+a se se teme teme
+a dormi
+a trăi
+a muri
+a ucide, a omorî
+a lupta
+a vâna
+a bate, a lovi
+a tăia
+a frânge, a despica, a rupe, a spinteca
+a înjunghia
+a zgâria
+a săpa, a excava
+a înota
+a zbura
+a merge, a umbla, a se plimba
+a veni
+a sta întins, a se culca
+a sta jos, a şedea
+a sta, a sta în picioare
+a se întoarce
+a cădea
+a da
+a ţine
+a presa, a strânge, a comprima
+a freca, a fricţiona
+a la, a spăla
+a şterge
+a trage
+a împinge
+a arunca
+a lega
+a coase
+a număra
+a zice, a spune
+a cânta
+a juca
+a pluti
+a curge
+a îngheţa
+a se inflama, a se umfla
+soare
+lună
+stea
+apă
+ploaie
+râu, fluviu
+lac
+mare
+sare
+piatră
+nisip
+praf, pulbere
+pământ
+nor
+ceaţă
+cer
+vânt
+zăpadă, nea
+gheaţă
+fum
+foc
+cenuşă, scrum
+a arde
+drum, cale, stradă
+munte
+roşu
+verde
+galben
+alb
+negru
+noapte
+zi
+an
+cald, fierbinte
+rece, frig
+plin
+nou
+vechi
+bun
+rău, prost
+putred, stricat, depravat, corupt
+murdar
+drept
+rotund
+ascuţit
+bont
+neted
+umed
+uscat
+corect
+lângă, apropiat
+departe
+drept
+stâng
+la, în
+în
+cu
+şi
+dacă
+pentru că
+nume
+я
+ты
+он
+мы
+вы
+они
+это
+то
+тут
+там
+кто
+что
+где
+когда
+как
+не
+все
+много
+несколько
+немного
+иной
+один
+два
+три
+четыре
+пять
+великий
+долгий
+широкий
+толстый
+тяжёлый
+маленький
+короткий
+узкий
+тонкий
+женщина
+мужчина
+человек
+дитя
+супруга
+супруг
+мать
+отец
+животное
+рыба
+птица
+пёс
+вошь
+змея
+червь
+дерево
+лес
+палка
+фрукт
+семена
+лист
+корень
+кора
+цветок
+трава
+верёвка
+шкура
+мясо
+кровь
+кость
+жир
+яйцо
+рог
+хвост
+перо
+волосы
+голова
+ухо
+глаз
+нос
+рот
+зуб
+язык
+ноготь
+стопа
+нога
+колено
+ладонь
+крыло
+живот
+кишки
+шея
+спина
+грудь
+сердце
+печень
+пить
+кушать
+кусать
+сосать
+плевать
+блевать
+дуть
+дышать
+смеяться
+видеть
+слышать
+знать
+мыслить
+чуять
+бояться
+спать
+жить
+умирать
+убивать
+бороться
+охотиться
+ударить
+рубить
+разделить
+кольнуть
+царапать
+рыть
+плавать
+летать
+идти
+прийти
+лежать
+сидеть
+стоять
+вертеть
+падать
+давать
+держать
+сжимать
+тереть
+умывать
+вытирать
+тянуть
+пихать
+кидать
+связывать
+шить
+считать
+сказать
+петь
+играть
+плыть
+течь
+замёрзнуть
+пухнуть
+солнце
+месяц
+звезда
+вода
+дождь
+река
+озеро
+море
+соль
+камень
+песок
+пыль
+земля
+облако
+туман
+небо
+ветер
+снег
+лёд
+дым
+огонь
+пепел
+жечь
+путь
+гора
+красный
+зелёный
+жёлтый
+белый
+чёрный
+ночь
+день
+год
+тёплый
+холодный
+полный
+новый
+старый
+добрый
+плохой
+гнилой
+грязный
+прямой
+круглый
+острый
+тупой
+ровный
+мокрый
+сухой
+правильный
+близкий
+дальний
+правый
+левый
+возле
+во
+со
+и
+если
+потому что
+имя
+ja
+ty
+on
+my
+vy
+ony
+to
+to
+sem
+tam
+kto
+čo
+kde
+keď
+ako
+nie
+všetko
+veľa
+niekoľko
+málo
+druhý
+jeden
+dva
+tri
+štyri
+päť
+veľký
+dlhý
+široký
+tučný
+ťažký
+malý
+krátky
+úzky
+tenký
+žena
+muž
+človek
+dieťa
+žena
+manžel
+matka
+otec
+zviera
+ryba
+vták
+pes
+voš
+had
+červík
+strom
+les
+tyč
+ovocie
+semeno
+list
+koreň
+kôra
+kvet
+tráva
+šnúra
+koža
+mäso
+krv
+kosť
+tuk,
+vajce
+roh
+chvost
+pero
+vlasy
+hlava
+ucho
+oko
+nos
+ústa
+zub
+jazyk
+necht na ruke
+noha
+noha 
+koleno
+ruka
+krídlo
+brucho
+vnútornosti
+krk
+chrbát
+prsia
+srdce
+pečeň
+piť
+jesť
+uhryznúť
+cicať
+pľuvať
+spôsobiť dávenie
+fúkať
+dýchať
+smiať sa
+vidieť
+počuť
+vedieť
+myslieť
+cítiť
+báť sa
+spať
+žiť
+umierať
+usmrtiť
+zápasiť 
+byť na love
+udrieť
+ rezať 
+deliť
+šťúrať
+škrabať
+kopať
+plávať
+lietieť
+ísť
+prísť
+ležať
+sedieť
+stáť
+otočiť (sa)
+padať
+dať
+držať
+stlačiť
+trieť
+zmyť (sa)
+utierať
+ťahať
+tlačiť
+hádzať
+viazať
+šiť
+počítať
+povedať
+spievať
+hrať (sa)
+plávať
+tiecť
+mrznúť
+opuchať
+slnko
+mesiac
+hviezda
+voda
+dážď
+rieka
+jazero
+more
+soľ
+kameň
+piesok
+prach
+zem
+mrak
+hmla
+nebo
+vietor
+sneh
+ľad
+dym
+oheň
+popol
+horieť
+hradská
+vrch
+červený
+zelený
+žltý
+biely
+čierny
+noc
+deň
+rok
+teplý
+chladný
+plný
+nový
+starý
+dobrý
+zlý
+hnilý
+špinavý
+rovný
+guľatý
+ostrý
+tupý
+hladký
+mokrý
+suchý
+správny
+neďaleký
+ďaleký
+pravý
+ľavý
+pri
+v
+s
+i
+ak
+pretože
+meno
+jaz
+ti
+on
+mi
+vi
+oni
+to
+oni
+tukaj
+tam
+kdo
+kaj
+kje
+kdaj
+kako
+ne
+vse
+mnogo
+nekoliko
+malo
+drugi
+ena
+dve
+tri
+štiri
+pet
+velik
+dolg
+širok
+debel
+težek
+majhen
+kratek
+ozek
+tanek
+ženska
+moški
+človek
+otrok
+žena
+mož
+mati
+oče
+zver
+riba
+ptica
+pes
+uš
+kača
+črv
+drevo
+gozd
+palica
+plod
+seme
+list
+koren
+skorja
+cvet
+trava
+vrv
+koža
+meso
+kri
+kost
+maščoba
+jajce
+rog
+rep
+pero
+lasje
+glava
+uho
+oko
+nos
+usta
+zob
+jezik
+noht
+stopalo
+noga
+koleno
+roka
+krilo
+trebuh
+drobovje
+vrat
+hrbet
+prsi
+srce
+jetra
+piti
+jesti
+gristi
+sesati
+pljuvati
+bruhati
+pihati
+dihati
+smejati
+videti
+slišati
+vedeti
+misliti
+duhati
+bati
+spati
+živeti
+umreti
+ubiti
+boriti
+loviti
+udariti
+rezati
+razcepiti
+zbosti
+škrabati
+kopati
+plavati
+leteti
+hoditi
+priti
+ležati
+sedeti
+stati
+obrniti
+padati
+dajati
+držati
+stiskati
+treti
+umivati
+brisati
+vleči
+suniti
+metati
+vezati
+šivati
+šteti
+reči
+peti
+igrati
+plavati
+teči
+zamrzniti
+otekati
+sonce
+luna
+zvezda
+voda
+dež
+reka
+jezero
+morje
+sol
+kamen
+pesek
+prah
+zemlja
+oblak
+megla
+nebo
+veter
+sneg
+led
+dim
+ogenj
+pepel
+žgati
+cesta
+gora
+rdeč
+zelen
+žolt
+bel
+črn
+noč
+dan
+leto
+topel
+hladen
+poln
+nov
+star
+dober
+zloben
+gnil
+umazan
+raven
+okrogel
+oster
+top
+gladek
+moker
+suh
+pravilen
+bližnji
+daljen
+desni
+levi
+pri
+v
+z
+in
+ako
+ker
+ime
+ја
+ти
+он
+ми
+ви
+она
+ово
+то
+овде
+тамо
+ко
+што
+где
+кад
+како
+не
+све
+много
+неколико
+мало
+други
+један
+два
+три
+четири
+пет
+велик
+дуг
+широк
+туст
+тежак
+мал
+кратак
+узак
+танак
+жена
+мушкарац
+човек
+дете
+жена
+супруг
+мајка
+отац
+животиња
+риба
+птица
+пас
+уш
+змија
+црв
+дрво
+гора
+палица
+плод
+семе
+лист
+корен
+кора
+цвет
+трава
+канап
+кожа
+месо
+крв
+кост
+сало
+јаје
+рог
+реп
+перо
+влас
+глава
+уво
+око
+нос
+уста
+зуб
+језик
+нокат
+стопало
+нога
+колено
+рука
+крило
+трбух
+утроба
+шија
+леђа
+прса
+срце
+јетра
+пити
+јести
+гристи
+сисати
+пљувати
+бљувати
+духати
+дисати
+смејати
+видети
+чути
+знати
+мислити
+њушити
+страховати
+спавати
+живети
+умрети
+убити
+бојовати
+ловити
+ударити
+сећи
+разделити
+убости
+чешати
+копати
+пливати
+летети
+ходати
+доћи
+лежати
+сести
+стати
+скренути
+пасти
+дати
+држати
+стиснути
+трти
+прати
+брисати
+вући
+гурати
+бацити
+везати
+шити
+бројати
+казати
+певати
+играти
+плутати
+тећи
+смрзнути
+отећи
+сунце
+месец
+звезда
+вода
+киша
+река
+језеро
+море
+сол
+камен
+песак
+прашина
+земљa
+облак
+магла
+небо
+ветар
+снег
+лед
+дим
+огањ
+пепео
+горети
+цеста
+гора
+црвен
+зелен
+жут
+бео
+црн
+ноћ
+дан
+година
+топао
+хладан
+пун
+нов
+стар
+добар
+лош
+гњио
+прљав
+раван
+округао
+оштар
+туп
+гладак
+мокар
+сух
+исправан
+близак
+далек
+десни
+леви
+код
+у
+са
+и
+ако
+зато што
+име
+jag
+du
+han
+vi
+ni
+de
+det här
+det där
+här
+där
+vem
+vad
+var
+när
+hur
+inte, ej
+alla
+många
+några, vissa
+få
+annan
+ett
+två
+tre
+fyra
+fem
+stor
+lång
+bred, vid
+tjock
+tung
+liten
+kort
+trång
+tunn
+kvinna
+man
+människa
+barn
+hustru, maka, fru
+man, make
+mamma, mor
+pappa, far
+djur
+fisk
+fågel
+hund
+lus
+orm
+mask
+träd
+skog
+pinne
+frukt
+frö
+löv, blad
+rot
+bark
+blomma
+gräs
+rep
+hud
+kött
+blod
+ben
+fett
+ägg
+horn
+svans
+fjäder
+hår
+huvud
+öra
+öga
+näsa
+mun
+tand
+tunga
+nagel
+fot
+ben
+knä
+hand
+vinge
+mage
+inälvor
+hals, nacke
+rygg
+bröst
+hjärta
+lever
+dricka
+äta
+bita
+suga
+spotta
+kräkas, spy
+blåsa
+andas
+skratta
+se
+höra
+veta
+tänka
+lukta
+frukta, rädas
+sova
+leva
+dö
+döda
+strida
+jaga
+slå
+skära
+dela, klyva
+sticka
+klia
+gräva
+simma
+flyga
+gå
+komma
+ligga
+sitta
+stå
+svänga
+falla
+ge
+hålla
+klämma
+gnida
+tvätta
+rensa
+dra
+trycka
+kasta
+knyta, binda
+sy
+räkna
+säga
+sjunga
+leka, spela
+flyta
+rinna
+frysa
+svälla
+sol
+måne
+stjärna
+vatten
+regn
+flod
+sjö
+hav
+salt
+sten
+sand
+damm
+jord
+moln
+dimma
+himmel
+vind
+snö
+is
+rök
+eld
+aska
+brinna
+väg
+berg
+röd
+grön
+gul
+vit
+svart
+natt
+dag
+år
+varm
+kall
+full
+ny
+gammal
+bra
+dålig
+rutten
+smutsig
+rak
+rund
+vass
+slö
+len, slät
+våt, blöt
+torr
+rätt, riktig
+nära
+långt bort, fjärran
+höger
+vänster
+hos, vid
+i
+med
+och
+om
+eftersom, ty
+namn
+я
+ти
+він
+ми
+ви
+вони
+це
+те
+тут
+там
+хто
+що
+де
+коли
+як
+не
+усі
+багато
+кілька
+небагато
+інший
+один
+два
+три
+чотири
+п'ять
+великий
+довгий
+широкий
+товстий
+важкий
+маленький
+короткий
+вузький
+тонкий
+жінка
+чоловік
+людина
+дитя
+жінка
+чоловік
+мати
+батько
+тварина
+риба
+птах
+пес
+воша
+змія
+хробак
+дерево
+ліс
+палиця
+фрукт
+насіння
+листок
+корінь
+кора
+квітка
+трава
+мотузка
+шкіра
+м'ясо
+кров
+кістка
+сало
+яйце
+ріг
+хвіст
+перо
+волосся
+голова
+вухо
+око
+ніс
+рот
+зуб
+язик
+ніготь
+стопа
+нога
+коліно
+рука
+крило
+живіт
+нутрощі
+шия
+спина
+груди
+серце
+печінка
+пити
+їсти
+гризти
+ссати
+плювати
+блювати
+дмухати
+дихати
+сміятися
+бачити
+чути
+знати
+думати
+нюхати
+боятися
+спати
+жити
+помирати
+убивати
+битися
+полювати
+ударити
+різати
+розділяти
+колоти
+дряпати
+копати
+пливти
+літати
+ходити
+приходити
+лежати
+сидіти
+стояти
+повертати
+падати
+давати
+тримати
+стискати
+терти
+мити
+витирати
+тягнути
+штовхати
+кидати
+в'язати
+шити
+лічити
+говорити
+співати
+грати
+триматися на поверхні
+тікти
+змерзнути
+набухати
+сонце
+місяць
+зоря
+вода
+дощ
+ріка
+озеро
+море
+сіль
+камінь
+пісок
+пил
+земля
+хмара
+імла
+небо
+вітер
+сніг
+лід
+дим
+вогонь
+попіл
+палити
+шлях
+гора
+червоний
+зелений
+жовтий
+білий
+чорний
+ніч
+день
+рік
+теплий
+холодний
+повний
+новий
+старий
+добрий
+поганий
+гнилий
+брудний
+прямий
+круглий
+гострий
+тупий
+гладенький
+мокрий
+сухий
+правильний
+близький
+далекий
+правий
+лівий
+в
+уві
+із
+й
+якщо
+тому що
+назва
+('я', 'аз', 'ja', 'jo', 'já', 'азъ', 'ich', 'I', 'yo', 'je', 'ja', 'io', 'ego', 'јас', 'ik', 'ja', 'eu', 'eu', 'я', 'ja', 'jaz', 'ја', 'jag', 'я')
+('ты', 'ти', 'ti', 'tu', 'ty', 'тъі', 'du, Sie', 'you (singular), thou', 'tú, usted', 'tu, vous', 'ti', 'tu, Lei', 'tu', 'ти', 'jij, je, U', 'ty', 'tu, você', 'tu', 'ты', 'ty', 'ti', 'ти', 'du', 'ти')
+('ён', 'той', 'on', 'ell', 'on', 'онъ', 'er', 'he', 'él', 'il', 'on', 'lui, egli', 'is, ea', 'тој', 'hij', 'on', 'ele', 'el, ea', 'он', 'on', 'on', 'он', 'han', 'він')
+('мы', 'ние', 'mi', 'nosaltres', 'my', 'мъі', 'wir', 'we', 'nosotros', 'nous', 'mi', 'noi', 'nos', 'ние', 'wij, we', 'my', 'nós', 'noi', 'мы', 'my', 'mi', 'ми', 'vi', 'ми')
+('вы', 'вие', 'vi', 'vosaltres', 'vy', 'въі', 'ihr, Sie', 'you (plural)', 'vosotros, ustedes', 'vous', 'vi', 'voi', 'vos', 'вие', 'jullie', 'wy', 'vós, vocês', 'voi', 'вы', 'vy', 'vi', 'ви', 'ni', 'ви')
+('яны', 'те', 'ona', 'ells, elles', 'ona', 'овъ, сь', 'sie', 'they', 'ellos, ellas', 'ils, elles', 'ona', 'loro, essi', 'ii, eae', 'тие', 'zij, ze', 'oni, one', 'eles, elas', 'ei, ele', 'они', 'ony', 'oni', 'она', 'de', 'вони')
+('гэта', 'туй', 'ovo', 'aquest', 'toto', 'тъ, та, то', 'dieses', 'this', 'este', 'ceci', 'ovo', 'questo', 'hic, is', 'овој', 'deze, dit', 'ten, ta, to', 'este, isto', 'acesta, aceasta, acest, această', 'это', 'to', 'to', 'ово', 'det här', 'це')
+('гэны', 'онуй', 'to', 'aquell', 'tamto', 'сьдє, овъдє', 'jenes', 'that', 'ese, aquel', 'cela', 'to', 'quello', 'ille', 'тоа', 'die, dat', 'tamto', 'aquele, aquilo', 'acela, aceea, acel, acea', 'то', 'to', 'oni', 'то', 'det där', 'те')
+('тут', 'тук', 'ovdje', 'aquí', 'sem', 'тѹ, онъдє', 'hier', 'here', 'aquí, acá', 'ici', 'ovdje', 'qui, qua', 'hic', 'тука', 'hier', 'tu', 'aqui', 'aici, ací', 'тут', 'sem', 'tukaj', 'овде', 'här', 'тут')
+('там', 'там', 'tamo', 'allà', 'tam', 'къто', 'dort', 'there', 'ahí, allí, allá', 'là', 'tamo', 'là', 'ibi', 'таму', 'daar', 'tam', 'lá, ali, aí', 'acolo', 'там', 'tam', 'tam', 'тамо', 'där', 'там')
+('хто', 'кой', 'ko', 'qui', 'kdo', 'чьто', 'wer', 'who', 'quien', 'qui', 'tko', 'chi', 'quis', 'кој', 'wie', 'kto', 'quem', 'cine', 'кто', 'kto', 'kdo', 'ко', 'vem', 'хто')
+('што', 'що', 'šta', 'què', 'co', 'къдє', 'was', 'what', 'que', 'quoi', 'što', 'che', 'quid', 'што', 'wat', 'co', 'que, o que', 'ce', 'что', 'čo', 'kaj', 'што', 'vad', 'що')
+('дзе', 'где', 'gdje', 'on', 'kde', 'къгда', 'wo', 'where', 'donde', 'où', 'gdje', 'dove', 'ubi', 'каде', 'waar', 'gdzie', 'onde', 'unde', 'где', 'kde', 'kje', 'где', 'var', 'де')
+('калі', 'кога', 'kad', 'quan', 'kdy', 'како, яко', 'wann', 'when', 'cuando', 'quand', 'kad', 'quando', 'quando', 'кога', 'wanneer', 'kiedy', 'quando', 'când', 'когда', 'keď', 'kdaj', 'кад', 'när', 'коли')
+('як', 'как', 'kako', 'com', 'jak', 'нє', 'wie', 'how', 'como', 'comment', 'kako', 'come', 'quam, quomodo', 'како', 'hoe', 'jak', 'como', 'cum', 'как', 'ako', 'kako', 'како', 'hur', 'як')
+('не', 'не', 'ne', 'no', 'ne', 'вьсь', 'nicht', 'not', 'no', 'ne...pas', 'ne', 'non', 'non', 'не', 'niet', 'nie', 'não', 'nu', 'не', 'nie', 'ne', 'не', 'inte, ej', 'не')
+('усе', 'цял', 'sve', 'tot', 'všechno', 'мъногъ', 'alle', 'all', 'todo', 'tout', 'sve', 'tutto', 'omnis', 'сите', 'al, alle', 'wszystko', 'todo', 'tot', 'все', 'všetko', 'vse', 'све', 'alla', 'усі')
+('шмат', 'много', 'mnogo', 'molt', 'mnoho', 'инъ', 'viele', 'many', 'muchos', 'plusieurs', 'mnogo', 'molti', 'multi', 'многу', 'veel', 'mnóstwo', 'muito', 'multe, mulţi', 'много', 'veľa', 'mnogo', 'много', 'många', 'багато')
+('некалькі', 'няколко', 'nekoliko', 'algun, una mica', 'trocha', 'ѥдинъ', 'einige', 'some', 'algunos, unos', 'quelques', 'nekoliko', 'alcuni', 'aliqui, aliquot', 'неколку', 'enkele, sommige', 'trochę', 'algum', 'nişte', 'несколько', 'niekoľko', 'nekoliko', 'неколико', 'några, vissa', 'кілька')
+('няшмат', 'малцина', 'malo', 'poc', 'nemnoho', 'дъва', 'wenige', 'few', 'poco', 'peu', 'malo', 'pochi', 'pauci', 'малку', 'weinig', 'niewiele', 'pouco', 'puţin', 'немного', 'málo', 'malo', 'мало', 'få', 'небагато')
+('іншы', 'друг', 'drugi', 'altre', 'druhý', 'триѥ', 'andere', 'other', 'otro', 'autre', 'ini', 'altro', 'alter, alius', 'друг', 'ander', 'inny', 'outro, outra', 'alt, altă', 'иной', 'druhý', 'drugi', 'други', 'annan', 'інший')
+('адзін', 'един', 'jedan', 'un', 'jeden', 'чєтъірє', 'eins', 'one', 'uno', 'un', 'jedan', 'uno', 'unus', 'еден', 'een', 'jeden', 'um, uma', 'unu, un, una', 'один', 'jeden', 'ena', 'један', 'ett', 'один')
+('два', 'две', 'dva', 'dos', 'dva', 'пѧть', 'zwei', 'two', 'dos', 'deux', 'dva', 'due', 'duo', 'два', 'twee', 'dwa', 'dois, duas', 'doi, două', 'два', 'dva', 'dve', 'два', 'två', 'два')
+('тры', 'три', 'tri', 'tres', 'tři', 'вєликъ', 'drei', 'three', 'tres', 'trois', 'tri', 'tre', 'tres', 'три', 'drie', 'trzy', 'três', 'trei', 'три', 'tri', 'tri', 'три', 'tre', 'три')
+('чатыры', 'четири', 'četiri', 'quatre', 'čtyři', 'дльгъ', 'vier', 'four', 'cuatro', 'quatre', 'četiri', 'quattro', 'quattuor', 'четири', 'vier', 'cztery', 'quatro', 'patru', 'четыре', 'štyri', 'štiri', 'четири', 'fyra', 'чотири')
+('пяць', 'пет', 'pet', 'cinc', 'pět', 'широкъ', 'fünf', 'five', 'cinco', 'cinq', 'pet', 'cinque', 'quinque', 'пет', 'vijf', 'pięć', 'cinco', 'cinci', 'пять', 'päť', 'pet', 'пет', 'fem', "п'ять")
+('вялікі', 'голям', 'velik', 'gran, gros', 'velký', 'дєбєлъ', 'groß', 'big', 'grande', 'grand', 'velik', 'grande', 'magnus, grandis', 'голем', 'groot', 'wielki', 'grande', 'mare', 'великий', 'veľký', 'velik', 'велик', 'stor', 'великий')
+('доўгі', 'дълъг', 'dug', 'llarg', 'dlouhý', 'тѧжъкъ', 'lang', 'long', 'largo', 'long', 'dug', 'lungo', 'longus', 'долг', 'lang', 'długi', 'longe', 'lung', 'долгий', 'dlhý', 'dolg', 'дуг', 'lång', 'довгий')
+('шырокі', 'широк', 'širok', 'ample', 'široký', 'малъ', 'breit, weit', 'wide', 'ancho', 'large', 'širok', 'largo', 'latus', 'широк', 'breed, wijd', 'szeroki', 'largo', 'larg', 'широкий', 'široký', 'širok', 'широк', 'bred, vid', 'широкий')
+('тоўсты', 'дебел', 'tust', 'gruixut', 'hrubý', 'кратъкъ', 'dick', 'thick', 'gordo', 'épais', 'tust', 'spesso', 'creber', 'густ', 'dik', 'gruby', 'grosso, espesso', 'gros', 'толстый', 'tučný', 'debel', 'туст', 'tjock', 'товстий')
+('цяжкі', 'тежък', 'težak', 'pesat', 'těžký', 'ѫзъкъ', 'schwer', 'heavy', 'pesado', 'lourd', 'težak', 'pesante', 'gravis', 'тежок', 'zwaar', 'ciężki', 'pesado', 'greu', 'тяжёлый', 'ťažký', 'težek', 'тежак', 'tung', 'важкий')
+('маленькі', 'малък', 'mal', 'petit', 'malý', 'тьнъкъ', 'klein', 'small', 'pequeño', 'petit', 'mal', 'piccolo', 'parvus', 'мал', 'klein', 'mały', 'pequeno', 'mic', 'маленький', 'malý', 'majhen', 'мал', 'liten', 'маленький')
+('кароткі', 'къс', 'kratak', 'curt', 'krátký', 'жєна', 'kurz', 'short', 'corto', 'court', 'kratak', 'corto', 'brevis', 'краток', 'kort', 'krótki', 'curto', 'scurt', 'короткий', 'krátky', 'kratek', 'кратак', 'kort', 'короткий')
+('вузкі', 'тесен', 'uzak', 'estret', 'úzký', 'мѫжь', 'eng', 'narrow', 'estrecho, angosto', 'étroit', 'uzak', 'stretto', 'angustus', 'тесен', 'smal', 'wąski', 'estreito', 'strâmt', 'узкий', 'úzky', 'ozek', 'узак', 'trång', 'вузький')
+('тонкі', 'тънък', 'tanak', 'prim', 'tenký', 'чловѣкъ', 'dünn', 'thin', 'delgado, flaco', 'mince', 'tanak', 'sottile', 'macer', 'тенок', 'dun', 'cienki', 'tênue, magro', 'subţire, slab', 'тонкий', 'tenký', 'tanek', 'танак', 'tunn', 'тонкий')
+('жанчына', 'жена', 'žena', 'dona', 'žena', 'дѣть, отрокъ', 'Frau', 'woman', 'mujer', 'femme', 'žena', 'donna', 'femina', 'жена', 'vrouw', 'kobieta', 'mulher', 'femeie, muiere', 'женщина', 'žena', 'ženska', 'жена', 'kvinna', 'жінка')
+('мужчына', 'мъж', 'muškarac', 'home', 'muž', 'жєна', 'Mann', 'man (adult male)', 'hombre', 'homme', 'muškarac', 'uomo', 'vir', 'маж', 'man', 'mężczyzna', 'homem', 'bărbat', 'мужчина', 'muž', 'moški', 'мушкарац', 'man', 'чоловік')
+('чалавек', 'човек', 'čovjek', 'persona', 'člověk', 'мѫжь', 'Mensch', 'man (human being)', 'hombre', 'homme', 'čovjek', 'uomo', 'homo', 'човек', 'mens', 'człowiek', 'homem', 'om', 'человек', 'človek', 'človek', 'човек', 'människa', 'людина')
+('дзіця', 'дете', 'dijete', 'nen', 'dítě', 'мати', 'Kind', 'child', 'niño', 'enfant', 'dijete', 'bambino', 'puer', 'дете', 'kind', 'dziecko', 'criança, filho', 'copil', 'дитя', 'dieťa', 'otrok', 'дете', 'barn', 'дитя')
+('жонка', 'съпруга', 'žena', 'muller', 'choť', 'отьць', 'Frau, Ehefrau', 'wife', 'esposa, mujer', 'femme, épouse', 'žena', 'moglie', 'uxor, mulier', 'сопруга', 'vrouw, echtgenote', 'małżonka', 'esposa, mulher', 'soţie, nevastă', 'супруга', 'žena', 'žena', 'жена', 'hustru, maka, fru', 'жінка')
+('муж', 'съпруг', 'suprug', 'marit', 'choť', 'звѣрь', 'Mann, Ehemann', 'husband', 'esposo, marido', 'mari, époux', 'suprug', 'marito', 'maritus', 'сопруг', 'man, echtgenoot', 'mąż', 'esposo, marido', 'soţ, bărbat', 'супруг', 'manžel', 'mož', 'супруг', 'man, make', 'чоловік')
+('маці', 'майка', 'majka', 'mare', 'mateř', 'ръіба', 'Mutter', 'mother', 'madre', 'mère', 'majka', 'madre', 'mater', 'мајка', 'moeder', 'matka', 'mãe', 'mamă', 'мать', 'matka', 'mati', 'мајка', 'mamma, mor', 'мати')
+('бацька', 'баща', 'otac', 'pare', 'otec', 'пьсъ', 'Vater', 'father', 'padre', 'père', 'otac', 'padre', 'pater', 'татко', 'vader', 'ojciec', 'pai', 'tată', 'отец', 'otec', 'oče', 'отац', 'pappa, far', 'батько')
+('зьвер', 'животно', 'životinja', 'animal', 'zvíře', 'змия', 'Tier', 'animal', 'animal', 'animal', 'životinja', 'animale', 'animal', 'животно', 'dier', 'zwierzę', 'animal', 'vietate, animal', 'животное', 'zviera', 'zver', 'животиња', 'djur', 'тварина')
+('рыба', 'риба', 'riba', 'peix', 'ryba', 'чрьвь', 'Fisch', 'fish', 'pez, pescado', 'poisson', 'riba', 'pesce', 'piscis', 'риба', 'vis', 'ryba', 'peixe', 'peşte', 'рыба', 'ryba', 'riba', 'риба', 'fisk', 'риба')
+('птушка', 'птица', 'ptica', 'ocell', 'pták', 'дрѣво', 'Vogel', 'bird', 'ave, pájaro', 'oiseau', 'ptica', 'uccello', 'avis', 'птица', 'vogel', 'ptak', 'ave, pássaro', 'pasăre', 'птица', 'vták', 'ptica', 'птица', 'fågel', 'птах')
+('пёс', 'пес', 'pas', 'gos', 'pes', 'лѣсъ', 'Hund', 'dog', 'perro', 'chien', 'pas', 'cane', 'canis', 'пес', 'hond', 'pies', 'cão, cachorro', 'câine', 'пёс', 'pes', 'pes', 'пас', 'hund', 'пес')
+('вош', 'въшка', 'uš', 'poll', 'veš', 'палица', 'Laus', 'louse', 'piojo', 'pou', 'uš', 'pidocchio', 'pedis', 'вошка', 'luis', 'wesz', 'piolho', 'păduche', 'вошь', 'voš', 'uš', 'уш', 'lus', 'воша')
+('зьмяя', 'змия', 'zmija', 'serp', 'had', 'овощє', 'Schlange', 'snake', 'serpiente, culebra', 'serpent', 'zmija', 'serpente', 'serpens', 'змија', 'slang', 'wąż', 'cobra, serpente', 'şarpe', 'змея', 'had', 'kača', 'змија', 'orm', 'змія')
+('чарвяк', 'червей', 'crv', 'cuc', 'červ', 'сѣмѧ', 'Wurm', 'worm', 'gusano', 'ver', 'crv', 'verme', 'vermis', 'црв', 'worm', 'czerw', 'verme', 'vierme', 'червь', 'červík', 'črv', 'црв', 'mask', 'хробак')
+('дрэва', 'дърво', 'drvo', 'arbre', 'strom', 'листъ', 'Baum', 'tree', 'árbol', 'arbre', 'drvo', 'albero', 'arbor', 'дрво', 'boom', 'drzewo', 'árvore', 'arbore, copac', 'дерево', 'strom', 'drevo', 'дрво', 'träd', 'дерево')
+('лес', 'шума', 'gora', 'bosc', 'les', 'корєнь', 'Wald', 'forest', 'bosque', 'forêt', 'gora', 'foresta', 'silva', 'шума', 'woud', 'bór', 'floresta', 'pădure', 'лес', 'les', 'gozd', 'гора', 'skog', 'ліс')
+('палка', 'бастун', 'palica', 'bastó', 'pálka', 'кора', 'Stock', 'stick', 'palo', 'bâton', 'palica', 'bastone', 'fustis', 'прачка', 'stok', 'pałka', 'bastão, vara', 'băţ, baston', 'палка', 'tyč', 'palica', 'палица', 'pinne', 'палиця')
+('садавіна', 'овошка', 'plod', 'fruit, fruita', 'plod', 'цвѣтъ', 'Frucht', 'fruit', 'fruta', 'fruit', 'plod', 'frutta', 'fructus', 'плод', 'fruit, vrucht', 'owoc', 'fruta, fruto', 'fruct', 'фрукт', 'ovocie', 'plod', 'плод', 'frukt', 'фрукт')
+('насеньне', 'семе', 'sjeme', 'llavor', 'sémě', 'трава', 'Samen', 'seed', 'semilla', 'graine', 'sjeme', 'seme', 'semen', 'семе', 'zaad', 'nasionko', 'semente', 'sămânţă, grăunte', 'семена', 'semeno', 'seme', 'семе', 'frö', 'насіння')
+('ліст', 'лист', 'list', 'fulla', 'list', 'кожа', 'Blatt', 'leaf', 'hoja', 'feuille', 'list', 'foglia', 'folium', 'лист', 'blad', 'liść', 'folha', 'frunză', 'лист', 'list', 'list', 'лист', 'löv, blad', 'листок')
+('корань', 'корен', 'korijen', 'arrel', 'kořen', 'мѧсо', 'Wurzel', 'root', 'raíz', 'racine', 'korijen', 'radice', 'radix', 'корен', 'wortel', 'korzeń', 'raiz', 'rădăcină', 'корень', 'koreň', 'koren', 'корен', 'rot', 'корінь')
+('кара', 'кора', 'kora', 'escorça', 'kůra', 'кръі', 'Rinde', 'bark (from tree)', 'corteza', 'écorce', 'kora', 'corteccia', 'cortex', 'кора', 'schors', 'kora', 'casca', 'scoarţă', 'кора', 'kôra', 'skorja', 'кора', 'bark', 'кора')
+('кветка', 'цвете', 'cvijet', 'flor', 'květ', 'кость', 'Blume', 'flower', 'flor', 'fleur', 'cvijet', 'fiore', 'flos', 'цвет', 'bloem', 'kwiat', 'flor', 'floare', 'цветок', 'kvet', 'cvet', 'цвет', 'blomma', 'квітка')
+('трава', 'трева', 'trava', 'herba', 'tráva', 'тѹкъ', 'Gras', 'grass', 'hierba, pasto', 'herbe', 'trava', 'erba', 'herba', 'трева', 'gras', 'trawa', 'grama, erva', 'iarbă', 'трава', 'tráva', 'trava', 'трава', 'gräs', 'трава')
+('шнур', 'въже', 'kanap', 'corda', 'šňůra', 'аицє', 'Seil', 'rope', 'cuerda', 'corde', 'konop', 'corda', 'funis', 'коноп', 'touw, koord', 'sznur', 'corda', 'sfoară, frânghie, coardă', 'верёвка', 'šnúra', 'vrv', 'канап', 'rep', 'мотузка')
+('скура', 'кожа', 'koža', 'pell', 'kůže', 'рогъ', 'Haut', 'skin', 'piel', 'peau', 'koža', 'pelle', 'cutis', 'кожа', 'huid', 'skóra', 'pele, cútis', 'piele', 'шкура', 'koža', 'koža', 'кожа', 'hud', 'шкіра')
+('мяса', 'месо', 'meso', 'carn', 'maso', 'власъ', 'Fleisch', 'meat', 'carne', 'viande', 'meso', 'carne', 'caro', 'месо', 'vlees', 'mięso', 'carne', 'carne', 'мясо', 'mäso', 'meso', 'месо', 'kött', "м'ясо")
+('кроў', 'кръв', 'krv', 'sang', 'krev', 'глава', 'Blut', 'blood', 'sangre', 'sang', 'krv', 'sangue', 'sanguis', 'крв', 'bloed', 'krew', 'sangue', 'sânge', 'кровь', 'krv', 'kri', 'крв', 'blod', 'кров')
+('костка', 'кокал', 'kost', 'os', 'kost', 'ѹхо', 'Knochen', 'bone', 'hueso', 'os', 'kost', 'osso', 'os', 'коска', 'been, bot', 'kość', 'osso', 'os', 'кость', 'kosť', 'kost', 'кост', 'ben', 'кістка')
+('тлушч', 'мазнина', 'salo', 'gras', 'maz', 'око', 'Fett', 'fat (noun)', 'grasa', 'graisse', 'salo', 'grasso', 'adeps', 'сало', 'vet', 'sadło', 'gordura', 'grăsime', 'жир', 'tuk,', 'maščoba', 'сало', 'fett', 'сало')
+('яйка', 'яйце', 'jaje', 'ou', 'vejce', 'носъ', 'Ei', 'egg', 'huevo', 'œuf', 'jaje', 'uovo', 'ovum', 'јајце', 'ei', 'jajko', 'ovo', 'ou', 'яйцо', 'vajce', 'jajce', 'јаје', 'ägg', 'яйце')
+('рог', 'рог', 'rog', 'banya', 'roh', 'ѹста', 'Horn', 'horn', 'cuerno', 'corne', 'rog', 'corno', 'cornu', 'рог', 'hoorn', 'róg', 'chifre, corno', 'corn', 'рог', 'roh', 'rog', 'рог', 'horn', 'ріг')
+('хвост', 'опашка', 'rep', 'cua', 'chvost', 'зѫбъ', 'Schwanz', 'tail', 'cola', 'queue', 'rep', 'coda', 'cauda', 'опашка', 'staart', 'ogon', 'cauda, rabo', 'coadă', 'хвост', 'chvost', 'rep', 'реп', 'svans', 'хвіст')
+('пяро', 'перо', 'pero', 'ploma', 'pero', 'ѩзъікъ', 'Feder', 'feather', 'pluma', 'plume', 'pero', 'piuma', 'penna', 'перо', 'veer', 'pióro', 'pena, pluma', 'pană, fulg', 'перо', 'pero', 'pero', 'перо', 'fjäder', 'перо')
+('валасы', 'косъм', 'vlas', 'pèl, cabell', 'vlasy', 'ногъть', 'Haar', 'hair', 'cabello, pelo', 'cheveu', 'vlas', 'capelli', 'capillus, coma, crinis', 'влакно', 'haar', 'włosy', 'pelo, cabelo', 'păr', 'волосы', 'vlasy', 'lasje', 'влас', 'hår', 'волосся')
+('галава', 'глава', 'glava', 'cap', 'hlava', 'стопа', 'Kopf, Haupt', 'head', 'cabeza', 'tête', 'glava', 'testa', 'caput', 'глава', 'hoofd, kop', 'głowa', 'cabeça', 'cap', 'голова', 'hlava', 'glava', 'глава', 'huvud', 'голова')
+('вуха', 'ухо', 'uho', 'orella', 'ucho', 'нога', 'Ohr', 'ear', 'oreja', 'oreille', 'uho', 'orecchio', 'auris', 'уво', 'oor', 'ucho', 'orelha', 'ureche', 'ухо', 'ucho', 'uho', 'уво', 'öra', 'вухо')
+('вока', 'око', 'oko', 'ull', 'oko', 'колѣно', 'Auge', 'eye', 'ojo', 'œil', 'oko', 'occhio', 'oculus', 'око', 'oog', 'oko', 'olho', 'ochi', 'глаз', 'oko', 'oko', 'око', 'öga', 'око')
+('нос', 'нос', 'nos', 'nas', 'nos', 'рѫка', 'Nase', 'nose', 'nariz', 'nez', 'nos', 'naso', 'nasus', 'нос', 'neus', 'nos', 'nariz', 'nas', 'нос', 'nos', 'nos', 'нос', 'näsa', 'ніс')
+('вусны', 'уста', 'usta', 'boca', 'pusa', 'крило', 'Mund', 'mouth', 'boca', 'bouche', 'usta', 'bocca', 'os', 'уста', 'mond', 'usta', 'boca', 'gură', 'рот', 'ústa', 'usta', 'уста', 'mun', 'рот')
+('зуб', 'зъб', 'zub', 'dent', 'zub', 'ѫтроба, чрѣво', 'Zahn', 'tooth', 'diente', 'dent', 'zub', 'dente', 'dens', 'заб', 'tand', 'ząb', 'dente', 'dinte', 'зуб', 'zub', 'zob', 'зуб', 'tand', 'зуб')
+('язык', 'език', 'jezik', 'llengua', 'jazyk', 'прьси', 'Zunge', 'tongue', 'lengua', 'langue', 'jezik', 'lingua', 'lingua', 'јазик', 'tong', 'język', 'língua', 'limbă', 'язык', 'jazyk', 'jezik', 'језик', 'tunga', 'язик')
+('пазногаць', 'нокът', 'nokat', 'ungla', 'nehet', 'срьдьцє', 'Fingernagel', 'fingernail', 'uña', 'ongle', 'nokat', 'unghia', 'unguis', 'нокт', 'vingernagel', 'paznokieć', 'unha', 'unghie', 'ноготь', 'necht na ruke', 'noht', 'нокат', 'nagel', 'ніготь')
+('ступня', 'стъпало', 'stopalo', 'peu', 'stopa', 'пити', 'Fuß', 'foot', 'pie', 'pied', 'stopalo', 'piede', 'pes', 'стапало', 'voet', 'stopa', 'pé', 'laba piciorului', 'стопа', 'noha', 'stopalo', 'стопало', 'fot', 'стопа')
+('нага', 'крак', 'noga', 'cama', 'noha', 'ясти', 'Bein', 'leg', 'pierna', 'jambe', 'noga', 'gamba', 'crus', 'нога', 'been', 'noga', 'perna', 'picior', 'нога', 'noha ', 'noga', 'нога', 'ben', 'нога')
+('калена', 'коляно', 'koljeno', 'genoll', 'koleno', 'хапати', 'Knie', 'knee', 'rodilla', 'genou', 'koljeno', 'ginocchio', 'genu', 'колено', 'knie', 'kolano', 'joelho', 'genunchi', 'колено', 'koleno', 'koleno', 'колено', 'knä', 'коліно')
+('рука', 'ръка', 'ruka', 'ma', 'dlaň', 'съсати', 'Hand', 'hand', 'mano', 'main', 'ruka', 'mano', 'manus', 'рака', 'hand', 'ręka', 'mão', 'mână', 'ладонь', 'ruka', 'roka', 'рука', 'hand', 'рука')
+('крыло', 'крило', 'krilo', 'ala', 'křídlo', 'пльвати', 'Flügel', 'wing', 'ala', 'aile', 'krilo', 'ala', 'ala', 'крило', 'vleugel', 'skrzydło', 'asa', 'aripă', 'крыло', 'krídlo', 'krilo', 'крило', 'vinge', 'крило')
+('жывот', 'корем', 'trbuh', 'panxa', 'břicho', 'бльвати', 'Bauch', 'belly', 'barriga, vientre, panza', 'ventre', 'trbuh', 'pancia', 'venter', 'стомак', 'buik', 'brzuch', 'barriga, ventre', 'burtă, vintre, pântece', 'живот', 'brucho', 'trebuh', 'трбух', 'mage', 'живіт')
+('вантробы', 'вътрешности', 'utroba', 'budells', 'útroby', 'дѹхати', 'Eingeweide, Innereien', 'guts', 'entrañas, tripas', 'entrailles', 'utroba', 'intestino', 'intestina', 'црева', 'ingewanden', 'wnętrzności', 'tripas, entranhas', 'maţe, măruntaie', 'кишки', 'vnútornosti', 'drobovje', 'утроба', 'inälvor', 'нутрощі')
+('шыя', 'шия', 'vrat', 'coll', 'šíje', 'дъіхати', 'Hals', 'neck', 'cuello', 'cou', 'vrat', 'collo', 'collum, cervix', 'шија', 'nek', 'szyja', 'pescoço, colo', 'gât', 'шея', 'krk', 'vrat', 'шија', 'hals, nacke', 'шия')
+('сьпіна', 'гръб', 'leđa', 'esquena', 'hřbet', 'смияти', 'Rücken', 'back', 'espalda', 'dos', 'leđa', 'schiena', 'tergum', 'грб', 'rug', 'plecy', 'costas, dorso', 'spate, spinare', 'спина', 'chrbát', 'hrbet', 'леђа', 'rygg', 'спина')
+('грудзі', 'гръд', 'prsa', 'pit', 'ňadro', 'видѣти', 'Brust', 'breast', 'pecho, seno', 'sein, poitrine', 'prsa', 'petto', 'pectus, mamma', 'града', 'borst', 'pierś', 'peito, seio', 'piept', 'грудь', 'prsia', 'prsi', 'прса', 'bröst', 'груди')
+('сэрца', 'сърце', 'srce', 'cor', 'srdce', 'слъішати', 'Herz', 'heart', 'corazón', 'cœur', 'srce', 'cuore', 'cor', 'срце', 'hart', 'serce', 'coração', 'inimă', 'сердце', 'srdce', 'srce', 'срце', 'hjärta', 'серце')
+('печань', 'черен дроб', 'jetra', 'fetge', 'játra', 'вѣдѣти, знати', 'Leber', 'liver', 'hígado', 'foie', 'jetra', 'fegato', 'iecur', 'црн дроб', 'lever', 'wątroba', 'fígado', 'ficat', 'печень', 'pečeň', 'jetra', 'јетра', 'lever', 'печінка')
+('піць', 'пия', 'piti', 'beure', 'pít', 'мъіслити', 'trinken', 'drink', 'beber, tomar', 'boire', 'piti', 'bere', 'bibere', 'пие', 'drinken', 'pić', 'beber', 'a bea', 'пить', 'piť', 'piti', 'пити', 'dricka', 'пити')
+('есьці', 'ям', 'jesti', 'menjar', 'jíst', 'бояти', 'essen', 'eat', 'comer', 'manger', 'jesti', 'mangiare', 'edere', 'јаде', 'eten', 'jeść', 'comer', 'a mânca', 'кушать', 'jesť', 'jesti', 'јести', 'äta', 'їсти')
+('грызьці', 'хапя', 'gristi', 'mossegar', 'hryzat', 'съпати', 'beißen', 'bite', 'morder', 'mordre', 'gristi', 'mordere', 'mordere', 'гриз', 'bijten', 'gryźć', 'morder', 'a muşca', 'кусать', 'uhryznúť', 'gristi', 'гристи', 'bita', 'гризти')
+('смактаць', 'суча', 'sisati', 'xuclar, llepar', 'cucat', 'жити', 'saugen', 'suck', 'chupar', 'sucer', 'sisati', 'succhiare', 'sugere', 'цица', 'zuigen', 'ssać', 'sugar, chupar', 'a suge', 'сосать', 'cicať', 'sesati', 'сисати', 'suga', 'ссати')
+('пляваць', 'плюя', 'pljuvati', 'escopir', 'plivat', 'ѹмрѣти', 'spucken', 'spit', 'escupir', 'cracher', 'pljuvati', 'sputare', 'sputare', 'плука', 'spuwen', 'pluć', 'cuspir', 'a scuipa', 'плевать', 'pľuvať', 'pljuvati', 'пљувати', 'spotta', 'плювати')
+('ванітаваць', 'повръщам', 'bljuvati', 'vomitar', 'dávit', 'ѹбити', 'erbrechen', 'vomit', 'vomitar', 'vomir', 'bljuvati', 'vomitare', 'vomere', 'блуе', 'braken, overgeven', 'wymiotować', 'vomitar', 'a vomita', 'блевать', 'spôsobiť dávenie', 'bruhati', 'бљувати', 'kräkas, spy', 'блювати')
+('дзьмуць', 'духам', 'duhati', 'bufar', 'vít', 'брати', 'blasen', 'blow', 'soplar', 'souffler', 'duhati', 'soffiare', 'flare', 'дува', 'blazen', 'dąć', 'soprar', 'a sufla', 'дуть', 'fúkať', 'pihati', 'духати', 'blåsa', 'дмухати')
+('дыхаць', 'дишам', 'disati', 'respirar', 'dýchat', 'ловити', 'atmen', 'breathe', 'respirar', 'respirer', 'disati', 'respirare', 'spirare', 'вдишува', 'ademen', 'oddychać', 'respirar', 'a respira', 'дышать', 'dýchať', 'dihati', 'дисати', 'andas', 'дихати')
+('сьмяяцца', 'смея се', 'smijati', 'riure', 'smát se', 'ѹдарити', 'lachen', 'laugh', 'reír', 'rire', 'smijati', 'ridere', 'ridere', 'смее', 'lachen', 'śmiać się', 'rir', 'a râde', 'смеяться', 'smiať sa', 'smejati', 'смејати', 'skratta', 'сміятися')
+('бачыць', 'виждам', 'vidjeti', 'veure', 'vidět', 'сѣщи, рѣзати', 'sehen', 'see', 'ver', 'voir', 'vidjeti', 'vedere', 'videre', 'гледа', 'zien', 'widzieć', 'ver', 'a vedea', 'видеть', 'vidieť', 'videti', 'видети', 'se', 'бачити')
+('чуць', 'чувам', 'čuti', 'escoltar', 'slyšet', 'бости', 'hören', 'hear', 'oír', 'entendre', 'čuti', 'udire, sentire', 'audire', 'слуша', 'horen', 'słyszeć', 'ouvir', 'a auzi', 'слышать', 'počuť', 'slišati', 'чути', 'höra', 'чути')
+('ведаць', 'зная', 'znati', 'saber', 'znát', 'чєсати', 'wissen', 'know (a fact)', 'saber', 'savoir', 'znati', 'sapere', 'scire', 'знае', 'weten', 'wiedzieć', 'saber', 'a şti', 'знать', 'vedieť', 'vedeti', 'знати', 'veta', 'знати')
+('думаць', 'мисля', 'misliti', 'pensar', 'dumat', 'копати', 'denken', 'think', 'pensar', 'penser', 'misliti', 'pensare', 'putare', 'помислува', 'denken', 'myśleć', 'pensar', 'a gândi', 'мыслить', 'myslieť', 'misliti', 'мислити', 'tänka', 'думати')
+('нюхаць', 'помирисвам', 'njušiti', 'olorar', 'cítit', 'плавати', 'riechen', 'smell', 'oler', 'sentir', 'njušiti', 'odorare, annusare', 'olere', 'смрди', 'ruiken', 'wąchać', 'cheirar', 'a mirosi', 'чуять', 'cítiť', 'duhati', 'њушити', 'lukta', 'нюхати')
+('баяцца', 'страхувам се', 'strahovati', 'témer', 'strachovat se', 'лєтѣти', 'fürchten', 'fear', 'temer', 'craindre, avoir peur', 'strahovati', 'temere', 'timere', 'плаши', 'vrezen, angst', 'bać się', 'temer', 'a se se teme teme', 'бояться', 'báť sa', 'bati', 'страховати', 'frukta, rädas', 'боятися')
+('спаць', 'спя', 'spavati', 'dormir', 'spát', 'ходити', 'schlafen', 'sleep', 'dormir', 'dormir', 'spavati', 'dormire', 'dormire', 'спие', 'slapen', 'spać', 'dormir', 'a dormi', 'спать', 'spať', 'spati', 'спавати', 'sova', 'спати')
+('жыць', 'живея', 'živjeti', 'viure', 'žít', 'лєжати', 'leben', 'live', 'vivir', 'vivre', 'živjeti', 'vivere', 'vivere', 'живее', 'leven', 'żyć', 'viver', 'a trăi', 'жить', 'žiť', 'živeti', 'живети', 'leva', 'жити')
+('паміраць', 'умирам', 'umrijeti', 'morir', 'umírat', 'сѣдѣти', 'sterben', 'die', 'morir', 'mourir', 'umrijeti', 'morire', 'mori', 'умира', 'sterven', 'umierać', 'morrer', 'a muri', 'умирать', 'umierať', 'umreti', 'умрети', 'dö', 'помирати')
+('забіваць', 'убивам', 'ubiti', 'matar', 'usmrtit', 'стати', 'töten', 'kill', 'matar', 'tuer', 'ubiti', 'uccidere', 'necare', 'убива', 'doden', 'zabijać', 'matar', 'a ucide, a omorî', 'убивать', 'usmrtiť', 'ubiti', 'убити', 'döda', 'убивати')
+('змагацца', 'бия се', 'bojovati', 'lluitar', 'válčit', 'пасти, падати', 'kämpfen', 'fight', 'pelear', 'se battre', 'bojovati', 'combattere', 'pugnare', 'бие', 'vechten', 'walczyć', 'lutar', 'a lupta', 'бороться', 'zápasiť ', 'boriti', 'бојовати', 'strida', 'битися')
+('паляваць', 'ловувам', 'loviti', 'caçar', 'lovit', 'дати, даяти', 'jagen', 'hunt', 'cazar', 'chasser', 'loviti', 'cacciare', 'venari', 'ловува', 'jagen', 'polować', 'caçar', 'a vâna', 'охотиться', 'byť na love', 'loviti', 'ловити', 'jaga', 'полювати')
+('ударыць', 'удрям', 'udariti', 'colpejar, picar', 'udeřit', 'дрьжати', 'schlagen', 'hit', 'golpear', 'frapper', 'udariti', 'colpire', 'pellere', 'чука', 'slaan', 'uderzać', 'bater', 'a bate, a lovi', 'ударить', 'udrieť', 'udariti', 'ударити', 'slå', 'ударити')
+('рэзаць', 'режа', 'sjeći', 'tallar', 'sekat', 'трьти', 'schneiden', 'cut', 'cortar', 'couper', 'sjeći', 'tagliare', 'secare', 'реже', 'snijden', 'ciąć', 'cortar', 'a tăia', 'рубить', ' rezať ', 'rezati', 'сећи', 'skära', 'різати')
+('разьдзяляць', 'цепя', 'razdijeliti', 'partir, dividir', 'rozdělit', 'мъіти', 'spalten', 'split', 'partir', 'fendre', 'razdijeliti', 'dividere, separare', 'scindere, partiri', 'расцепува', 'splijten', 'rozdzielać', 'fender, rachar', 'a frânge, a despica, a rupe, a spinteca', 'разделить', 'deliť', 'razcepiti', 'разделити', 'dela, klyva', 'розділяти')
+('калоць', 'промушвам', 'ubosti', 'apunyalar', 'píchnout', 'вѧзати', 'stechen', 'stab', 'apuñalar', 'poignarder', 'ubosti', 'pugnalare', 'traicere', 'убодува', 'steken', 'pchnąć', 'esfaquear, apunhalar', 'a înjunghia', 'кольнуть', 'šťúrať', 'zbosti', 'убости', 'sticka', 'колоти')
+('драпаць', 'чеша', 'češati', 'gratar, rascar, esgarrapar', 'škrábat', 'рєщи', 'kratzen', 'scratch', 'arañar, rascar', 'gratter', 'češati', 'graffiare', 'radere', 'чеша', 'krabben', 'drapać', 'arranhar, raspar', 'a zgâria', 'царапать', 'škrabať', 'škrabati', 'чешати', 'klia', 'дряпати')
+('рыць', 'копая', 'kopati', 'cavar, excavar', 'kopat', 'пѣти', 'graben', 'dig', 'cavar', 'creuser', 'kopati', 'scavare', 'fodere', 'копа', 'graven', 'kopać', 'cavar, excavar', 'a săpa, a excava', 'рыть', 'kopať', 'kopati', 'копати', 'gräva', 'копати')
+('плаваць', 'плувам', 'plivati', 'nedar', 'plavat', 'тєшти', 'schwimmen', 'swim', 'nadar', 'nager', 'plivati', 'nuotare', 'natare', 'плива', 'zwemmen', 'pływać', 'nadar', 'a înota', 'плавать', 'plávať', 'plavati', 'пливати', 'simma', 'пливти')
+('лётаць', 'летя', 'letjeti', 'volar', 'letět', 'помръзнѫти', 'fliegen', 'fly (verb)', 'volar', 'voler', 'letjeti', 'volare', 'volare', 'лета', 'vliegen', 'latać', 'voar', 'a zbura', 'летать', 'lietieť', 'leteti', 'летети', 'flyga', 'літати')
+('хадзіць', 'вървя', 'hodati', 'caminar', 'chodit', 'слъньцє', 'gehen', 'walk', 'caminar', 'marcher', 'hodati', 'camminare', 'gradi', 'оди', 'lopen, stappen', 'chodzić', 'andar, caminhar, passear', 'a merge, a umbla, a se plimba', 'идти', 'ísť', 'hoditi', 'ходати', 'gå', 'ходити')
+('прыходзіць', 'идвам', 'doći', 'venir', 'přijít', 'мѣсѧць, лѹна', 'kommen', 'come', 'venir', 'venir', 'doći', 'venire', 'venire', 'доаѓа', 'komen', 'przychodzić', 'vir', 'a veni', 'прийти', 'prísť', 'priti', 'доћи', 'komma', 'приходити')
+('ляжаць', 'лежа', 'ležati', 'jeure', 'ležet', 'звѣзда', 'liegen', 'lie', 'echarse, acostarse, tenderse', "s'étendre", 'ležati', 'distendersi', 'iacere', 'леже', 'liggen', 'leżeć', 'estar, deitado, jazer', 'a sta întins, a se culca', 'лежать', 'ležať', 'ležati', 'лежати', 'ligga', 'лежати')
+('сядзець ', 'седя', 'sjesti', 'seure', 'sedět', 'вода', 'sitzen', 'sit', 'sentarse', "s'asseoir", 'sjesti', 'sedere', 'sedere', 'седи', 'zitten', 'siedzieć', 'sentar, estar, sentado', 'a sta jos, a şedea', 'сидеть', 'sedieť', 'sedeti', 'сести', 'sitta', 'сидіти')
+('стаяць', 'стоя', 'stati', 'estar dret', 'stát', 'дъждь', 'stehen', 'stand', 'estar de pie', 'se lever', 'stati', 'stare in piedi', 'stare', 'стои', 'staan', 'stać', 'estar, de pé, estar, em pé', 'a sta, a sta în picioare', 'стоять', 'stáť', 'stati', 'стати', 'stå', 'стояти')
+('паварочвацца', 'завивам', 'skrenuti', 'girar', 'obrátit', 'рѣка', 'drehen', 'turn', 'voltear', 'tourner', 'skrenuti', 'girare', 'vertere', 'врти', 'draaien', 'obracać', 'virar, girar', 'a se întoarce', 'вертеть', 'otočiť (sa)', 'obrniti', 'скренути', 'svänga', 'повертати')
+('упасьці', 'падам', 'pasti', 'caure', 'upadnout', 'ѥзєръ', 'fallen', 'fall', 'caer', 'tomber', 'pasti', 'cadere', 'cadere', 'паѓа', 'vallen', 'upadać', 'cair', 'a cădea', 'падать', 'padať', 'padati', 'пасти', 'falla', 'падати')
+('даваць', 'давам', 'dati', 'donar', 'dát', 'морѥ', 'geben', 'give', 'dar', 'donner', 'dati', 'dare', 'dare', 'дава', 'geven', 'dawać', 'dar', 'a da', 'давать', 'dať', 'dajati', 'дати', 'ge', 'давати')
+('трымаць', 'държа', 'držati', 'aguantar, sostenir', 'držet', 'соль', 'halten', 'hold', 'sostener', 'tenir', 'držati', 'tenere', 'tenere', 'држи', 'houden', 'trzymać', 'segurar', 'a ţine', 'держать', 'držať', 'držati', 'држати', 'hålla', 'тримати')
+('сьціскаць', 'изцеждам', 'stisnuti', 'apretar', 'stisknout', 'камъі', 'quetschen', 'squeeze', 'apretar', 'serrer', 'stisnuti', 'spremere', 'premere', 'стиска', 'knijpen', 'zgniatać', 'apertar, comprimir', 'a presa, a strânge, a comprima', 'сжимать', 'stlačiť', 'stiskati', 'стиснути', 'klämma', 'стискати')
+('церці', 'трия', 'trti', 'fregar', 'třít', 'пѣсъкъ', 'reiben', 'rub', 'frotar', 'frotter', 'trti', 'strofinare', 'fricare', 'трие', 'wrijven', 'trzeć', 'esfregar, friccionar', 'a freca, a fricţiona', 'тереть', 'trieť', 'treti', 'трти', 'gnida', 'терти')
+('мыць', 'мия', 'prati', 'rentar, netejar', 'umývat', 'прахъ', 'waschen', 'wash', 'lavar', 'laver', 'prati', 'lavare', 'lavare', 'мие', 'wassen', 'myć', 'lavar', 'a la, a spăla', 'умывать', 'zmyť (sa)', 'umivati', 'прати', 'tvätta', 'мити')
+('выціраць', 'бърша', 'brisati', 'eixugar', 'utírat', 'зємля', 'wischen', 'wipe', 'limpiar', 'essuyer', 'brisati', 'asciugare', 'tergere', 'брише', 'vegen', 'wycierać', 'enxugar', 'a şterge', 'вытирать', 'utierať', 'brisati', 'брисати', 'rensa', 'витирати')
+('цягнуць', 'дърпам', 'vući', 'estirar', 'tahat', 'облакъ', 'ziehen', 'pull', 'tirar', 'tirer', 'vući', 'tirare', 'trahere', 'влече', 'trekken', 'ciągnąć', 'puxar', 'a trage', 'тянуть', 'ťahať', 'vleči', 'вући', 'dra', 'тягнути')
+('штурхаць', 'натискам', 'gurati', 'empènyer', 'tlačit', 'нєбо', 'drücken', 'push', 'empujar', 'pousser', 'gurati', 'spingere', 'pellere, urgere', 'бутка', 'duwen', 'pchać', 'empurrar', 'a împinge', 'пихать', 'tlačiť', 'suniti', 'гурати', 'trycka', 'штовхати')
+('кідаць', 'хвърлям', 'baciti', 'llançar, llençar', 'házet', 'вѣтръ', 'werfen', 'throw', 'tirar', 'jeter', 'baciti', 'tirare', 'iacere', 'фрла', 'werpen, gooien', 'rzucać', 'jogar, atirar, lançar', 'a arunca', 'кидать', 'hádzať', 'metati', 'бацити', 'kasta', 'кидати')
+('зьвязваць', 'връзвам', 'vezati', 'lligar', 'vázat', 'снѣгъ', 'binden', 'tie', 'atar', 'lier', 'vezati', 'legare', 'stringere, ligare', 'врзува', 'knopen', 'wiązać', 'amarrar', 'a lega', 'связывать', 'viazať', 'vezati', 'везати', 'knyta, binda', "в'язати")
+('шыць', 'шия', 'šiti', 'cosir', 'šít', 'лєдъ', 'nähen', 'sew', 'coser', 'coudre', 'šiti', 'cucire', 'suere', 'шие', 'naaien', 'szyć', 'costurar', 'a coase', 'шить', 'šiť', 'šivati', 'шити', 'sy', 'шити')
+('лічыць', 'броя', 'brojati', 'comptar', 'počítat', 'дъімъ', 'zählen', 'count', 'contar', 'compter', 'brojati', 'contare', 'numerare', 'брои', 'tellen', 'liczyć', 'contar', 'a număra', 'считать', 'počítať', 'šteti', 'бројати', 'räkna', 'лічити')
+('сказаць', 'казвам', 'kazati', 'dir', 'říkat', 'огнь', 'sagen', 'say', 'decir', 'dire', 'kazati', 'dire', 'dicere', 'кажува', 'zeggen', 'mówić', 'dizer', 'a zice, a spune', 'сказать', 'povedať', 'reči', 'казати', 'säga', 'говорити')
+('сьпяваць', 'пея', 'pjevati', 'cantar', 'zpívat', 'горѣти', 'singen', 'sing', 'cantar', 'chanter', 'pjevati', 'cantare', 'canere', 'пее', 'zingen', 'śpiewać', 'cantar', 'a cânta', 'петь', 'spievať', 'peti', 'певати', 'sjunga', 'співати')
+('гуляць', 'играя', 'igrati', 'jugar', 'hrát', 'пѫть', 'spielen', 'play', 'jugar', 'jouer', 'igrati', 'giocare', 'ludere', 'игра', 'spelen', 'grać', 'jogar, brincar', 'a juca', 'играть', 'hrať (sa)', 'igrati', 'играти', 'leka, spela', 'грати')
+('плысьці', 'плавам', 'plutati', 'flotar', 'plout', 'гора', 'schweben', 'float', 'flotar', 'flotter', 'plutati', 'galleggiare', 'fluctuare', 'плови', 'zweven', 'unosić się', 'flutuar, boiar', 'a pluti', 'плыть', 'plávať', 'plavati', 'плутати', 'flyta', 'триматися на поверхні')
+('цячы', 'тека', 'teći', 'fluir', 'téci', 'чръвєнъ', 'fließen', 'flow', 'fluir', 'couler', 'teći', 'fluire', 'fluere', 'тече', 'vloeien', 'przepływać', 'fluir', 'a curge', 'течь', 'tiecť', 'teči', 'тећи', 'rinna', 'тікти')
+('замерзнуць', 'замръзвам', 'smrznuti', 'gelar, congelar', 'zmrznout', 'зєлєнъ', 'frieren', 'freeze', 'helar', 'geler', 'smrznuti', 'gelare', 'gelare', 'замрзнува', 'vriezen', 'zamarzać', 'gelar, congelar, refrigerar', 'a îngheţa', 'замёрзнуть', 'mrznúť', 'zamrzniti', 'смрзнути', 'frysa', 'змерзнути')
+('пухнуць', 'подувам се', 'oteći', 'inflar', 'otékat', 'бѣлъ', 'schwellen', 'swell', 'hincharse', 'gonfler', 'oteći', 'gonfiare', 'inflare', 'набабрува', 'zwellen', 'puchnąć', 'inchar, intumescer', 'a se inflama, a se umfla', 'пухнуть', 'opuchať', 'otekati', 'отећи', 'svälla', 'набухати')
+('сонца', 'слънце', 'sunce', 'sol', 'slunce', 'чрънъ', 'Sonne', 'sun', 'sol', 'soleil', 'sunce', 'sole', 'sol', 'сонце', 'zon', 'słońce', 'sol', 'soare', 'солнце', 'slnko', 'sonce', 'сунце', 'sol', 'сонце')
+('месяц', 'луна', 'mjesec', 'lluna', 'luna', 'нощь', 'Mond', 'moon', 'luna', 'lune', 'mjesec', 'luna', 'luna', 'месечина', 'maan', 'miesiąc', 'lua', 'lună', 'месяц', 'mesiac', 'luna', 'месец', 'måne', 'місяць')
+('зорка', 'звезда', 'zvijezda', 'estel, estrella', 'hvězda', 'дьнь', 'Stern', 'star', 'estrella', 'étoile', 'zvijezda', 'stella', 'stella', 'ѕвезда', 'ster', 'gwiazda', 'estrela', 'stea', 'звезда', 'hviezda', 'zvezda', 'звезда', 'stjärna', 'зоря')
+('вада', 'вода', 'voda', 'aigua', 'voda', 'лѣто, ', 'Wasser', 'water', 'agua', 'eau', 'voda', 'acqua', 'aqua', 'вода', 'water', 'woda', 'água', 'apă', 'вода', 'voda', 'voda', 'вода', 'vatten', 'вода')
+('дождж', 'дъжд', 'kiša', 'pluja', 'déšť', 'топлъ', 'Regen', 'rain', 'lluvia', 'pluie', 'dažd', 'pioggia', 'pluvia', 'дожд', 'regen', 'deszcz', 'chuva', 'ploaie', 'дождь', 'dážď', 'dež', 'киша', 'regn', 'дощ')
+('рака', 'река', 'rijeka', 'riu', 'řeka', 'хладьнъ, стѹдєнъ', 'Fluß', 'river', 'río', 'rivière', 'rijeka', 'fiume', 'fluvius', 'река', 'rivier', 'rzeka', 'rio', 'râu, fluviu', 'река', 'rieka', 'reka', 'река', 'flod', 'ріка')
+('возера', 'езеро', 'jezero', 'llac', 'jezero', 'испльнь', 'See', 'lake', 'lago', 'lac', 'jezero', 'lago', 'lacus', 'езеро', 'meer', 'jezioro', 'lago', 'lac', 'озеро', 'jazero', 'jezero', 'језеро', 'sjö', 'озеро')
+('мора', 'море', 'more', 'mar', 'moře', 'новъ, новъіи', 'Meer, See', 'sea', 'mar', 'mer', 'more', 'mare', 'mare', 'море', 'zee', 'morze', 'mar', 'mare', 'море', 'more', 'morje', 'море', 'hav', 'море')
+('соль', 'сол', 'sol', 'sal', 'sůl', 'старъ', 'Salz', 'salt', 'sal', 'sel', 'sol', 'sale', 'sal', 'сол', 'zout', 'sól', 'sal', 'sare', 'соль', 'soľ', 'sol', 'сол', 'salt', 'сіль')
+('камень', 'камък', 'kamen', 'pedra', 'kámen', 'добръ', 'Stein', 'stone', 'piedra', 'pierre', 'kamen', 'pietra', 'lapis, petra', 'камен', 'steen', 'kamień', 'pedra', 'piatră', 'камень', 'kameň', 'kamen', 'камен', 'sten', 'камінь')
+('пясок', 'пясък', 'pijesak', 'sorra', 'písek', 'зълъ', 'Sand', 'sand', 'arena', 'sable', 'pijesak', 'sabbia', 'arena', 'песок', 'zand', 'piasek', 'areia', 'nisip', 'песок', 'piesok', 'pesek', 'песак', 'sand', 'пісок')
+('пыл', 'прах', 'prašina', 'pols', 'prach', 'правъ, равьнъ', 'Staub', 'dust', 'polvo', 'poussière', 'prašina', 'polvere', 'pulvis', 'прашина', 'stof', 'kurz', 'pó, poeira', 'praf, pulbere', 'пыль', 'prach', 'prah', 'прашина', 'damm', 'пил')
+('зямля', 'земя', 'zemlja', 'terra', 'země', 'остръ', 'Erde', 'earth', 'tierra', 'terre', 'zemlja', 'terra', 'terra', 'земја', 'aarde', 'ziemia', 'terra', 'pământ', 'земля', 'zem', 'zemlja', 'земљa', 'jord', 'земля')
+('воблака', 'облак', 'oblak', 'núvol', 'oblak', 'гладъкъ', 'Wolke', 'cloud', 'nube', 'nuage', 'oblak', 'nuvola', 'nimbus, nubes', 'облак', 'wolk', 'obłok', 'nuvem', 'nor', 'облако', 'mrak', 'oblak', 'облак', 'moln', 'хмара')
+('туман', 'мъгла', 'magla', 'boira', 'mlha', 'мокръ', 'Nebel', 'fog', 'niebla', 'brouillard', 'magla', 'nebbia', 'caligo, nebula', 'магла', 'mist, nevel', 'mgła', 'neblina, névoa, nevoeiro, bruma', 'ceaţă', 'туман', 'hmla', 'megla', 'магла', 'dimma', 'імла')
+('неба', 'небе', 'nebo', 'cel', 'nebe', 'сѹхъ', 'Himmel', 'sky', 'cielo', 'ciel', 'nebo', 'cielo', 'caelum', 'небо', 'lucht', 'niebo', 'céu', 'cer', 'небо', 'nebo', 'nebo', 'небо', 'himmel', 'небо')
+('вецер ', 'вятър', 'vjetar', 'vent', 'vítr', 'правъ', 'Wind', 'wind', 'viento', 'vent', 'vjetar', 'vento', 'ventus', 'ветер', 'wind', 'wiatr', 'vento', 'vânt', 'ветер', 'vietor', 'veter', 'ветар', 'vind', 'вітер')
+('сьнег', 'сняг', 'snijeg', 'neu', 'sníh', 'близъ', 'Schnee', 'snow', 'nieve', 'neige', 'snijeg', 'neve', 'nix', 'снег', 'sneeuw', 'śnieg', 'neve', 'zăpadă, nea', 'снег', 'sneh', 'sneg', 'снег', 'snö', 'сніг')
+('лёд', 'лед', 'led', 'gel, glaç', 'led#Czech|led', 'дальнии, дальнъ', 'Eis', 'ice', 'hielo', 'glace', 'led', 'ghiaccio', 'glacies', 'лед', 'ijs', 'lód', 'gelo', 'gheaţă', 'лёд', 'ľad', 'led', 'лед', 'is', 'лід')
+('дым', 'дим', 'dim', 'fum', 'dým', 'дєснъ, правъ', 'Rauch', 'smoke', 'humo', 'fumée', 'dim', 'fumo', 'fumus', 'чад', 'rook', 'dym', 'fumaça', 'fum', 'дым', 'dym', 'dim', 'дим', 'rök', 'дим')
+('агонь', 'огън', 'oganj', 'foc', 'oheň', 'лѣвъ', 'Feuer', 'fire', 'fuego', 'feu', 'oganj', 'fuoco', 'ignis', 'оган', 'vuur', 'ogień', 'fogo', 'foc', 'огонь', 'oheň', 'ogenj', 'огањ', 'eld', 'вогонь')
+('попел', 'пепел', 'pepeo', 'cendres', 'popel', 'ѹ, при', 'Asche', 'ashes', 'cenizas', 'cendres', 'pepeo', 'ceneri', 'cineres', 'пепел', 'as', 'popiół', 'cinzas', 'cenuşă, scrum', 'пепел', 'popol', 'pepel', 'пепео', 'aska', 'попіл')
+('гарэць', 'горя', 'gorjeti', 'cremar', 'hořet', 'въ', 'brennen', 'burn', 'quemar', 'brûler', 'gorjeti', 'bruciare', 'ardere', 'гори', 'branden', 'palić', 'queimar, arder', 'a arde', 'жечь', 'horieť', 'žgati', 'горети', 'brinna', 'палити')
+('шлях', 'шосе', 'cesta', 'carretera', 'cesta', 'съ', 'Straße', 'road', 'camino', 'route', 'cesta', 'strada', 'via', 'пат', 'weg', 'droga', 'estrada', 'drum, cale, stradă', 'путь', 'hradská', 'cesta', 'цеста', 'väg', 'шлях')
+('гара', 'планина', 'gora', 'muntanya', 'hora', 'и', 'Berg', 'mountain', 'montaña', 'montagne', 'gora', 'montagna', 'mons', 'планина', 'berg', 'góra', 'montanha', 'munte', 'гора', 'vrch', 'gora', 'гора', 'berg', 'гора')
+('чырвоны', 'червен', 'crven', 'vermell, roig', 'červený', 'ащє', 'rot', 'red', 'rojo', 'rouge', 'crven', 'rosso', 'ruber', 'црвен', 'rood', 'czerwony', 'vermelho, rubro', 'roşu', 'красный', 'červený', 'rdeč', 'црвен', 'röd', 'червоний')
+('зялёны', 'зелен', 'zelen', 'verd', 'zelený', 'понєжє пон҄єжє', 'grün', 'green', 'verde', 'vert', 'zelen', 'verde', 'viridis', 'зелен', 'groen', 'zielony', 'verde', 'verde', 'зелёный', 'zelený', 'zelen', 'зелен', 'grön', 'зелений')
+('жоўты', 'жълт', 'žut', 'groc', 'žlutý', 'имѧ', 'gelb', 'yellow', 'amarillo', 'jaune', 'žut', 'giallo', 'flavus', 'жолт', 'geel', 'żółty', 'amarelo', 'galben', 'жёлтый', 'žltý', 'žolt', 'жут', 'gul', 'жовтий')
